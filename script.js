@@ -1,52 +1,86 @@
 document.addEventListener('DOMContentLoaded', () => {
 
-const listContainer = document.getElementById('student-list-body');
-const sectionTitle = document.getElementById('section-title');
-const buttons = {
-    A: document.getElementById('btn-secA'),
-    B: document.getElementById('btn-secB'),
-    C: document.getElementById('btn-secC'),
-    D: document.getElementById('btn-secD'),
-    E: document.getElementById('btn-secE'),
-};
-const allButtons = Object.values(buttons);
+    const listContainer = document.getElementById('student-list-body');
+    const sectionTitle = document.getElementById('section-title');
+    const searchInput = document.getElementById('search-input');
+    const buttons = {
+        A: document.getElementById('btn-secA'),
+        B: document.getElementById('btn-secB'),
+        C: document.getElementById('btn-secC'),
+        D: document.getElementById('btn-secD'),
+        E: document.getElementById('btn-secE'),
+    };
+    const allButtons = Object.values(buttons);
 
-fetch('students.json')
-    .then(response => response.json())
-    .then(data => { 
-        const renderStudentList = (studentData, sectionName) => {
-            sectionTitle.textContent = `1st Year Student List: Section ${sectionName}`;
-            listContainer.innerHTML = '';
+    let allStudentData = {};
+    let currentSectionKey = 'A';
 
-            studentData.forEach((student, index) => {
-                const row = document.createElement('tr');
-                const courseClass = student.course.toLowerCase() === 'bsit' ? 'bsit' : 'bscs';
-                row.innerHTML = `
-                    <td data-label="#">${index + 1}</td>
-                    <td data-label="Full Name">${student.lastName}, ${student.firstName} ${student.middleName || ''}</td>
-                    <td data-label="Course"><span class="course-tag ${courseClass}">${student.course}</span></td>
-                `;
-                listContainer.appendChild(row);
+    fetch('students.json')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            return response.json();
+        })
+        .then(data => {
+            allStudentData = data; 
+
+            const renderStudentList = (studentData, sectionName) => {
+                
+                listContainer.innerHTML = ''; 
+
+                
+                if (!studentData || studentData.length === 0) {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `<td colspan="3" class="no-results">No students found.</td>`;
+                    listContainer.appendChild(row);
+                    return;
+                }
+
+                studentData.forEach((student, index) => {
+                    const row = document.createElement('tr');
+                    
+                    const courseClass = `${student.course.toLowerCase()}`;
+                    row.innerHTML = `
+                        <td data-label="#">${index + 1}</td>
+                        <td data-label="Full Name">${student.lastName}, ${student.firstName} ${student.middleName ? student.middleName[0] + '.' : ''}</td>
+                        <td data-label="Course"><span class="course-tag ${courseClass}">${student.course}</span></td>
+                    `;
+                    listContainer.appendChild(row);
+                });
+            };
+
+            const handleSectionChange = (sectionKey) => {
+                currentSectionKey = sectionKey; 
+                allButtons.forEach(button => button.classList.remove('active'));
+                buttons[sectionKey].classList.add('active');
+                searchInput.value = ''; 
+                renderStudentList(allStudentData[sectionKey], sectionKey);
+            };
+
+            
+            searchInput.addEventListener('input', () => {
+                const searchTerm = searchInput.value.toLowerCase().trim();
+                const currentSectionData = allStudentData[currentSectionKey] || [];
+                
+                const filteredData = currentSectionData.filter(student => {
+                    const fullName = `${student.firstName} ${student.middleName || ''} ${student.lastName}`.toLowerCase();
+                    return fullName.includes(searchTerm);
+                });
+                
+                renderStudentList(filteredData);
             });
-        };
 
-        const handleSectionChange = (sectionKey) => {
-            allButtons.forEach(button => button.classList.remove('active'));
-            buttons[sectionKey].classList.add('active');
-            renderStudentList(data[sectionKey], sectionKey);
-        };
+            Object.keys(buttons).forEach(key => {
+                buttons[key].addEventListener('click', () => handleSectionChange(key));
+            });
 
-        buttons.A.addEventListener('click', () => handleSectionChange('A'));
-        buttons.B.addEventListener('click', () => handleSectionChange('B'));
-        buttons.C.addEventListener('click', () => handleSectionChange('C'));
-        buttons.D.addEventListener('click', () => handleSectionChange('D'));
-        buttons.E.addEventListener('click', () => handleSectionChange('E'));
+            handleSectionChange('A');
 
-        handleSectionChange('A');
-
-    })
-    .catch(error => {
-        console.error('Error loading student data:', error);
-        sectionTitle.textContent = 'Error: Could not load data!';
-    });
+        })
+        .catch(error => {
+            console.error('Error loading student data:', error);
+            sectionTitle.textContent = 'Error: Could not load data!';
+            listContainer.innerHTML = '<tr><td colspan="3" class="no-results">Failed to load student data. Please check the file path and ensure `students.json` is valid.</td></tr>';
+        });
 });

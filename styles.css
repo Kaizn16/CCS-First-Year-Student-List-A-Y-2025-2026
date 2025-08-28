@@ -155,7 +155,6 @@ body {
     background-color: var(--hover-bg-color);
 }
 
-/* --- Course Tags --- */
 .course-tag {
     display: inline-block;
     padding: 5px 12px;
@@ -168,6 +167,35 @@ body {
 
 .bsit { background-color: var(--tag-bsit-bg); }
 .bscs { background-color: var(--tag-bscs-bg); }
+
+.search-container {
+    margin: 20px 0 10px;
+    display: flex;
+    justify-content: center;
+}
+
+#search-input {
+    width: 80%;
+    max-width: 400px;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    outline: none;
+    transition: all 0.3s ease-in-out;
+}
+
+#search-input:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+.no-results {
+    text-align: center;
+    padding: 20px;
+    color: #777;
+    font-style: italic;
+}
 
 @media (max-width: 768px) {
     body { padding: 10px; }
