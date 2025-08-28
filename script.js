@@ -1,83 +1,52 @@
-// --- Data for all sections ---
-
-const sectionAData = [
-    { "lastName": "AGUIHAP", "firstName": "ALAN", "course": "BSIT" }, { "lastName": "AGUILLON", "firstName": "AARON GEM", "course": "BSIT" }, { "lastName": "ANDRADE", "firstName": "ALPHA MAE", "course": "BSIT" }, { "lastName": "ARMADA", "firstName": "JOSHUA ALEXIS", "course": "BSIT" }, { "lastName": "BALASA", "firstName": "FRANK GRAN ULAND", "course": "BSIT" }, { "lastName": "BASA", "firstName": "JERICK", "course": "BSIT" }, { "lastName": "BAYHON", "firstName": "KENNY", "course": "BSIT" }, { "lastName": "BIGAY", "firstName": "LORIE", "course": "BSIT" }, { "lastName": "BILAN", "firstName": "RAM CHRISTIAN", "course": "BSIT" }, { "lastName": "BINIBINI", "firstName": "ANGEL", "course": "BSIT" }, { "lastName": "BOLANTE", "firstName": "FRENTHEL FRHENS", "course": "BSIT" }, { "lastName": "CANONES", "firstName": "KYLE", "course": "BSIT" }, { "lastName": "CLERIGO", "firstName": "JERWILL", "course": "BSIT" }, { "lastName": "DANIEL", "firstName": "LIAHN RUTH", "course": "BSIT" }, { "lastName": "DAYON", "firstName": "KESTER LANCE", "course": "BSIT" }, { "lastName": "DELA CRUZ", "firstName": "ARIANNE GRACE", "course": "BSIT" }, { "lastName": "DEMAYUGA", "firstName": "RAJ", "course": "BSIT" }, { "lastName": "DILLERA", "firstName": "JIRO", "course": "BSIT" }, { "lastName": "DORADO", "firstName": "KENT JEARWYNE", "course": "BSIT" }, { "lastName": "DULLANO", "firstName": "MICHAEL DANE", "course": "BSIT" }, { "lastName": "EUDELA", "firstName": "MICHAEL ANGELO", "course": "BSIT" }, { "lastName": "FRESNIDO", "firstName": "JETHER", "course": "BSIT" }, { "lastName": "GANZON", "firstName": "JOHN GABRIEL", "course": "BSIT" }, { "lastName": "GUION", "firstName": "R GEE", "course": "BSIT" }, { "lastName": "JACINTO", "firstName": "JERNIE FAITH", "course": "BSIT" }, { "lastName": "JUMBAS", "firstName": "VON YENCY", "course": "BSIT" }, { "lastName": "LIPURA", "firstName": "JAMES", "course": "BSIT" }, { "lastName": "MAGALSO", "firstName": "CLARK JINWELLE", "course": "BSIT" }, { "lastName": "MALLEN", "firstName": "JAYNEE VABES", "course": "BSIT" }, { "lastName": "MENTINO", "firstName": "LYREN JOY", "course": "BSIT" }, { "lastName": "OGFEMININA", "firstName": "RYU CLEIN", "course": "BSIT" }, { "lastName": "PADILLA", "firstName": "CARL JUDE", "course": "BSIT" }, { "lastName": "PICA", "firstName": "RAFAEL NORBERTO", "course": "BSCS" }, { "lastName": "RIZON", "firstName": "ANGELO PHILIPS", "course": "BSIT" }, { "lastName": "SUMAGAYSAY", "firstName": "RAIN NICOLI", "course": "BSIT" }, { "lastName": "TALABUCON", "firstName": "SIMON KIRK", "course": "BSIT" }, { "lastName": "TANDA", "firstName": "PRINCESS SHARA", "course": "BSIT" }, { "lastName": "TANDOY", "firstName": "JONATHAN", "course": "BSIT" }, { "lastName": "VISTA", "firstName": "GERARDO III", "course": "BSCS" }, { "lastName": "YRAC", "firstName": "RAIZEL SHAINE", "course": "BSIT" }, { "lastName": "YU", "firstName": "DAVIN JAN", "course": "BSIT" }
-];
-
-const sectionBData = [
-    { "lastName": "ABANTO", "firstName": "FRITZ JERALD", "course": "BSIT" }, { "lastName": "AGUIRRE", "firstName": "JOHN PAUL", "course": "BSIT" }, { "lastName": "ALEJAGA", "firstName": "JERIC", "course": "BSIT" }, { "lastName": "ALIPO-ON", "firstName": "JEO", "course": "BSIT" }, { "lastName": "ANDRADE", "firstName": "ARVIN", "course": "BSCS" }, { "lastName": "ARROZ", "firstName": "MARK ANTHONY", "course": "BSIT" }, { "lastName": "ASTURIAS", "firstName": "JOSHUA", "course": "BSIT" }, { "lastName": "AUSENTE", "firstName": "KYLE", "course": "BSIT" }, { "lastName": "BABANTE", "firstName": "JESUSA", "course": "BSIT" }, { "lastName": "BALAJADIA", "firstName": "CHRISTIAN", "course": "BSCS" }, { "lastName": "BERNADAS", "firstName": "RICO", "course": "BSIT" }, { "lastName": "CALIBARA", "firstName": "ELJAY", "course": "BSIT" }, { "lastName": "CARTAGENA", "firstName": "ANGELICA", "course": "BSIT" }, { "lastName": "CATALAN", "firstName": "JAY", "course": "BSIT" }, { "lastName": "DAVID", "firstName": "JEWEL", "course": "BSIT" }, { "lastName": "DIONSON", "firstName": "ANGELO", "course": "BSIT" }, { "lastName": "DIVINAGRACIA", "firstName": "JONATHAN", "course": "BSIT" }, { "lastName": "ESTEMBER", "firstName": "SHANE", "course": "BSIT" }, { "lastName": "GABALES", "firstName": "JAYVEE", "course": "BSIT" }, { "lastName": "GELVERO", "firstName": "RICO", "course": "BSIT" }, { "lastName": "LABRADOR", "firstName": "RONIEL", "course": "BSIT" }, { "lastName": "LAZARO", "firstName": "KATE", "course": "BSIT" }, { "lastName": "LEONIDA", "firstName": "STEPHEN", "course": "BSCS" }, { "lastName": "LIBO-ON", "firstName": "JUDE", "course": "BSIT" }, { "lastName": "LOPEZ", "firstName": "JOHN REX", "course": "BSIT" }, { "lastName": "MABOR", "firstName": "ANGELO", "course": "BSIT" }, { "lastName": "MOLINOS", "firstName": "CHRIS IVERSON", "course": "BSIT" }, { "lastName": "ONG", "firstName": "KRISTOFFER", "course": "BSIT" }, { "lastName": "PALMAR", "firstName": "REYMART", "course": "BSIT" }, { "lastName": "PASTRANA", "firstName": "JULIUS", "course": "BSCS" }, { "lastName": "PELAEZ", "firstName": "JOHN LLOYD", "course": "BSIT" }, { "lastName": "PEREZ", "firstName": "FRANCIS", "course": "BSIT" }, { "lastName": "PINEDA", "firstName": "MARK", "course": "BSIT" }, { "lastName": "POTESTAD", "firstName": "CARLO", "course": "BSIT" }, { "lastName": "ROCHA", "firstName": "JAYVEE", "course": "BSIT" }, { "lastName": "SALAZAR", "firstName": "ROLANDO JR.", "course": "BSIT" }, { "lastName": "SALVALOSA", "firstName": "MIKE", "course": "BSIT" }, { "lastName": "SAYSON", "firstName": "DANIEL", "course": "BSIT" }, { "lastName": "TERUEL", "firstName": "JOEMAR", "course": "BSCS" }, { "lastName": "TUBAL", "firstName": "ROLAND", "course": "BSIT" }, { "lastName": "VILLANUEVA", "firstName": "DAVE", "course": "BSIT" }
-];
-
-const sectionCData = [
-    { "lastName": "ALBARICO", "firstName": "JHONNA MAE", "course": "BSIT" }, { "lastName": "ALFARAS", "firstName": "JHON VINCENT", "course": "BSIT" }, { "lastName": "ALFARO", "firstName": "JOHN DANIEL", "course": "BSCS" }, { "lastName": "ALIPAO", "firstName": "JOSHUA", "course": "BSIT" }, { "lastName": "ALMOROS", "firstName": "CHRISTOPHER", "course": "BSIT" }, { "lastName": "ALONSAGAY", "firstName": "JULIUS", "course": "BSIT" }, { "lastName": "AMISTOSO", "firstName": "LESTER", "course": "BSIT" }, { "lastName": "ARANETA", "firstName": "ARJAY", "course": "BSCS" }, { "lastName": "ARIB", "firstName": "JHON LLOYD", "course": "BSIT" }, { "lastName": "AYSON", "firstName": "MARK", "course": "BSIT" }, { "lastName": "BACTUNG", "firstName": "JHUN", "course": "BSIT" }, { "lastName": "BANGELISAN", "firstName": "DARYL", "course": "BSIT" }, { "lastName": "BASA", "firstName": "JEROME", "course": "BSCS" }, { "lastName": "BELONIO", "firstName": "RONALD", "course": "BSIT" }, { "lastName": "BELTRAN", "firstName": "FRANCIS", "course": "BSIT" }, { "lastName": "BERNIL", "firstName": "ROGEN", "course": "BSIT" }, { "lastName": "BILLONES", "firstName": "JOSHUA", "course": "BSIT" }, { "lastName": "BLANCA", "firstName": "NICO", "course": "BSIT" }, { "lastName": "BRILLO", "firstName": "JOHN", "course": "BSIT" }, { "lastName": "BUCRO", "firstName": "MARK", "course": "BSIT" }, { "lastName": "CANONIZADO", "firstName": "JONAS", "course": "BSIT" }, { "lastName": "CASTROMAYOR", "firstName": "JOSHUA", "course": "BSCS" }, { "lastName": "CATEDRAL", "firstName": "JHON CARLO", "course": "BSIT" }, { "lastName": "CATILO", "firstName": "KENNETH", "course": "BSIT" }, { "lastName": "CEZAR", "firstName": "JOHN PAUL", "course": "BSIT" }, { "lastName": "DALIPE", "firstName": "REX", "course": "BSIT" }, { "lastName": "DE LA CRUZ", "firstName": "FRANCIS", "course": "BSIT" }, { "lastName": "DEASIS", "firstName": "JAYVEE", "course": "BSIT" }, { "lastName": "DOROMAL", "firstName": "REYMART", "course": "BSIT" }, { "lastName": "FABILLO", "firstName": "JOHN", "course": "BSCS" }, { "lastName": "FAJARDO", "firstName": "JOMAR", "course": "BSIT" }, { "lastName": "GALILA", "firstName": "JHON MICHAEL", "course": "BSIT" }, { "lastName": "GARDOSE", "firstName": "ARNEL", "course": "BSIT" }, { "lastName": "GEQUILLO", "firstName": "JOHN LLOYD", "course": "BSIT" }, { "lastName": "GICOLE", "firstName": "REX", "course": "BSIT" }, { "lastName": "GIMENO", "firstName": "JAMES", "course": "BSIT" }, { "lastName": "GOMEZ", "firstName": "KENNETH", "course": "BSIT" }, { "lastName": "GUILARAN", "firstName": "JOMAR", "course": "BSIT" }, { "lastName": "HOFILEÑA", "firstName": "FRANCIS", "course": "BSIT" }, { "lastName": "MAGBANUA", "firstName": "FRANCIS", "course": "BSIT" }
-];
-
-const sectionDData = [
-    { "lastName": "MABAQUIAO", "firstName": "WENDY", "course": "BSIT" }, { "lastName": "MACADO", "firstName": "JOSHUA", "course": "BSIT" }, { "lastName": "MADERA", "firstName": "LEBRON JAMES", "course": "BSIT" }, { "lastName": "MAGAN", "firstName": "ANDREA MAE", "course": "BSIT" }, { "lastName": "MAGAPA", "firstName": "JAY", "course": "BSIT" }, { "lastName": "MALFARTA", "firstName": "MARIELLE", "course": "BSIT" }, { "lastName": "MALLORCA", "firstName": "JOHN MARK", "course": "BSIT" }, { "lastName": "MANUEL", "firstName": "LUIS GABRIEL", "course": "BSIT" }, { "lastName": "MARGEN", "firstName": "FRANZ JOSEPH", "course": "BSIT" }, { "lastName": "MATULAC", "firstName": "REYJI", "course": "BSIT" }, { "lastName": "MEDEL", "firstName": "JIREH", "course": "BSIT" }, { "lastName": "MOMBAY", "firstName": "ARIES", "course": "BSIT" }, { "lastName": "MONTERO", "firstName": "CHRISTINE JOY", "course": "BSIT" }, { "lastName": "NALDOZA", "firstName": "JOHN REY", "course": "BSIT" }, { "lastName": "NECESSARIO", "firstName": "KENNETH", "course": "BSIT" }, { "lastName": "NISMAL", "firstName": "JUDE CHRISTIAN", "course": "BSCS" }, { "lastName": "OBIAS", "firstName": "JOHN ALFRED", "course": "BSIT" }, { "lastName": "OÑAS", "firstName": "JOHN PAUL", "course": "BSCS" }, { "lastName": "ORBISTA", "firstName": "JOHN LLOYD", "course": "BSIT" }, { "lastName": "PABALINAS", "firstName": "MARK LESTER", "course": "BSIT" }, { "lastName": "PABLICO", "firstName": "MARK VINCENT", "course": "BSIT" }, { "lastName": "PACLIBAR", "firstName": "IAN GABRIEL", "course": "BSIT" }, { "lastName": "PAGAYUNAN", "firstName": "CHRISTIAN", "course": "BSCS" }, { "lastName": "PALMA", "firstName": "JOSHUA", "course": "BSIT" }, { "lastName": "PALMES", "firstName": "MARK LAWRENCE", "course": "BSIT" }, { "lastName": "PANES", "firstName": "JOHN REY", "course": "BSIT" }, { "lastName": "PAREDES", "firstName": "MARLON", "course": "BSIT" }, { "lastName": "PATARATA", "firstName": "RENZYL", "course": "BSIT" }, { "lastName": "PEÑAFLORIDA", "firstName": "JAZPER", "course": "BSIT" }, { "lastName": "PEÑAREDONDO", "firstName": "JANNAH MAE", "course": "BSIT" }, { "lastName": "PEREZ", "firstName": "ALDRIN", "course": "BSIT" }, { "lastName": "PORNEL", "firstName": "RENE", "course": "BSCS" }, { "lastName": "PORNIL", "firstName": "KYLE ADRIAN", "course": "BSIT" }, { "lastName": "PROVIDO", "firstName": "JOHN EMMANUEL", "course": "BSIT" }, { "lastName": "QUIMPO", "firstName": "KEITH", "course": "BSIT" }, { "lastName": "QUINTIA", "firstName": "JOHN PAUL", "course": "BSIT" }, { "lastName": "REYES", "firstName": "ADRIAN", "course": "BSIT" }, { "lastName": "ROBLES", "firstName": "MARK ANTHONY", "course": "BSIT" }, { "lastName": "ROJO", "firstName": "JOHN REY", "course": "BSIT" }, { "lastName": "SACAPAÑO", "firstName": "JOEBERT", "course": "BSCS" }, { "lastName": "SALAZAR", "firstName": "ANGELO", "course": "BSIT" }, { "lastName": "SALCEDO", "firstName": "ELIJAH DANIEL", "course": "BSIT" }, { "lastName": "SALLADOR", "firstName": "VINCE RYAN", "course": "BSIT" }, { "lastName": "SALMORIN", "firstName": "MARK", "course": "BSIT" }, { "lastName": "SALVADOR", "firstName": "JOHN MARK", "course": "BSCS" }, { "lastName": "SANCHEZ", "firstName": "NATHANIEL", "course": "BSCS" }
-];
-
-const sectionEData = [
-    { "lastName": "SAMONES", "firstName": "ANGELICA", "course": "BSIT" }, { "lastName": "SAMSON", "firstName": "ALTHEA", "course": "BSIT" }, { "lastName": "SANGUINES", "firstName": "JOHN LLOYD", "course": "BSIT" }, { "lastName": "SANTILLAN", "firstName": "KYLA", "course": "BSIT" }, { "lastName": "SANTOS", "firstName": "JOSHUA", "course": "BSIT" }, { "lastName": "SARENO", "firstName": "PRINCESS", "course": "BSIT" }, { "lastName": "SARROSA", "firstName": "KRISTINE", "course": "BSIT" }, { "lastName": "SECONDES", "firstName": "JAN NIÑO", "course": "BSIT" }, { "lastName": "SEGOVIA", "firstName": "MARK ANTHONY", "course": "BSIT" }, { "lastName": "SERRANO", "firstName": "JOSHUA", "course": "BSIT" }, { "lastName": "SIALSA", "firstName": "JHON REY", "course": "BSIT" }, { "lastName": "SIBUGAN", "firstName": "KENT", "course": "BSIT" }, { "lastName": "SILVA", "firstName": "JOSHUA", "course": "BSIT" }
-];
+document.addEventListener('DOMContentLoaded', () => {
 
 const listContainer = document.getElementById('student-list-body');
 const sectionTitle = document.getElementById('section-title');
-const btnSecA = document.getElementById('btn-secA');
-const btnSecB = document.getElementById('btn-secB');
-const btnSecC = document.getElementById('btn-secC');
-const btnSecD = document.getElementById('btn-secD');
-const btnSecE = document.getElementById('btn-secE');
-const buttons = [btnSecA, btnSecB, btnSecC, btnSecD, btnSecE];
-
-
-// --- Functions ---
-
-/**
- * Renders the student list for a given section
- * @param {Array} studentData - The array of student objects.
- * @param {string} sectionName - The name of the section (e.g., "Section A").
- */
-function renderStudentList(studentData, sectionName) {
-    sectionTitle.textContent = `Student List: ${sectionName}`;
-    listContainer.innerHTML = '';
-
-    studentData.forEach((student, index) => {
-        const row = document.createElement('tr');
-        const courseClass = student.course.toLowerCase() === 'bsit' ? 'course-bsit' : 'course-bscs';
-
-        row.innerHTML = `
-            <td>${index + 1}</td>
-            <td>${student.firstName} ${student.lastName}</td>
-            <td><span class="course-tag ${courseClass}">${student.course}</span></td>
-        `;
-
-        listContainer.appendChild(row);
-    });
-}
-
-/**
- * Handles button clicks to switch sections
- * @param {Event} event - The click event.
- * @param {Array} data - The data for the section to display.
- * @param {string} name - The name of the section.
- */
-function handleSectionChange(event, data, name) {
-    buttons.forEach(button => button.classList.remove('active'));
-    event.currentTarget.classList.add('active');
-    renderStudentList(data, name);
-}
-
-
-
-btnSecA.addEventListener('click', (e) => handleSectionChange(e, sectionAData, 'Section A'));
-btnSecB.addEventListener('click', (e) => handleSectionChange(e, sectionBData, 'Section B'));
-btnSecC.addEventListener('click', (e) => handleSectionChange(e, sectionCData, 'Section C'));
-btnSecD.addEventListener('click', (e) => handleSectionChange(e, sectionDData, 'Section D'));
-btnSecE.addEventListener('click', (e) => handleSectionChange(e, sectionEData, 'Section E'));
-
-
-
-
-window.onload = () => {
-    renderStudentList(sectionAData, 'Section A');
+const buttons = {
+    A: document.getElementById('btn-secA'),
+    B: document.getElementById('btn-secB'),
+    C: document.getElementById('btn-secC'),
+    D: document.getElementById('btn-secD'),
+    E: document.getElementById('btn-secE'),
 };
+const allButtons = Object.values(buttons);
+
+fetch('students.json')
+    .then(response => response.json())
+    .then(data => { 
+        const renderStudentList = (studentData, sectionName) => {
+            sectionTitle.textContent = `Student List: Section ${sectionName}`;
+            listContainer.innerHTML = '';
+
+            studentData.forEach((student, index) => {
+                const row = document.createElement('tr');
+                const courseClass = student.course.toLowerCase() === 'bsit' ? 'course-bsit' : 'course-bscs';
+                row.innerHTML = `
+                    <td>${index + 1}</td>
+                    <td>${student.firstName} ${student.lastName}</td>
+                    <td><span class="course-tag ${courseClass}">${student.course}</span></td>
+                `;
+                listContainer.appendChild(row);
+            });
+        };
+
+        const handleSectionChange = (sectionKey) => {
+            allButtons.forEach(button => button.classList.remove('active'));
+            buttons[sectionKey].classList.add('active');
+            renderStudentList(data[sectionKey], sectionKey);
+        };
+
+        buttons.A.addEventListener('click', () => handleSectionChange('A'));
+        buttons.B.addEventListener('click', () => handleSectionChange('B'));
+        buttons.C.addEventListener('click', () => handleSectionChange('C'));
+        buttons.D.addEventListener('click', () => handleSectionChange('D'));
+        buttons.E.addEventListener('click', () => handleSectionChange('E'));
+
+        handleSectionChange('A');
+
+    })
+    .catch(error => {
+        console.error('Error loading student data:', error);
+        sectionTitle.textContent = 'Error: Could not load data!';
+    });
+});
