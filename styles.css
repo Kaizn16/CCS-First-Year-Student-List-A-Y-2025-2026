@@ -1,100 +1,199 @@
-/* Basic Styling */
+:root {
+    --primary-color: #007bff;
+    --primary-hover-color: #0056b3;
+    --background-color-start: #1f2233;
+    --background-color-end: #1a1a2e;
+    --grid-line-color: rgba(255, 255, 255, 0.07);
+    --container-bg: rgba(31, 34, 51, 0.8);
+    --text-color: #e0e0e0;
+    --header-color: #ffffff;
+    --border-color: rgba(255, 255, 255, 0.1);
+    --shadow-color: rgba(0, 123, 255, 0.2);
+    --hover-bg-color: rgba(255, 255, 255, 0.05);
+    --tag-bsit-bg: #17a2b8;
+    --tag-bscs-bg: #dc3545;
+    --font-family: 'Poppins', sans-serif;
+}
+
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    background-color: #f0f2f5;
-    color: #1c1e21;
+    font-family: var(--font-family);
+    color: var(--text-color);
     margin: 0;
     padding: 20px;
     display: flex;
     justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+
+    background-color: var(--background-color-end);
+    background-image: 
+    
+        linear-gradient(var(--grid-line-color) 1px, transparent 1px),
+        linear-gradient(90deg, var(--grid-line-color) 1px, transparent 1px),
+    
+        radial-gradient(circle at center, var(--background-color-start) 0%, var(--background-color-end) 100%);
+    background-size: 50px 50px, 50px 50px, cover;
 }
+
 
 .container {
     width: 100%;
-    max-width: 800px;
-    background-color: #ffffff;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 900px;
+    background-color: var(--container-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    box-shadow: 0 0 25px var(--shadow-color);
+    backdrop-filter: blur(10px); 
+    -webkit-backdrop-filter: blur(10px);
+    overflow: hidden;
+}
+
+.header {
     padding: 24px;
+    background-color: transparent;
+    color: var(--header-color);
+    border-bottom: 1px solid var(--border-color);
 }
 
-h1 {
-    color: #333;
+#section-title {
+    margin: 0 0 16px 0;
     text-align: center;
-    border-bottom: 2px solid #e0e0e0;
-    padding-bottom: 16px;
-    margin-top: 0;
+    font-weight: 700;
 }
 
-/* Section Selector Buttons */
+
 .section-selector {
     display: flex;
-    flex-wrap: wrap; /* Allows buttons to wrap on smaller screens */
+    flex-wrap: wrap;
     justify-content: center;
-    gap: 10px;
-    margin-bottom: 20px;
+    gap: 12px;
 }
 
 .section-selector button {
     padding: 10px 20px;
-    font-size: 16px;
+    font-size: 1rem;
+    font-family: var(--font-family);
+    font-weight: 600;
     cursor: pointer;
-    border: 1px solid #ccc;
-    border-radius: 6px;
-    background-color: #f8f8f8;
-    transition: background-color 0.3s, border-color 0.3s;
+    border: 2px solid var(--border-color);
+    border-radius: 8px;
+    background-color: transparent;
+    color: var(--header-color);
+    transition: all 0.3s ease;
 }
 
 .section-selector button:hover {
-    background-color: #e9e9e9;
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+    transform: translateY(-2px);
 }
 
 .section-selector button.active {
-    background-color: #4CAF50;
-    color: white;
-    border-color: #4CAF50;
+    background-color: var(--primary-color);
+    color: var(--header-color);
+    border-color: var(--primary-color);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
-/* Student List Table Styling */
+
+.table-container {
+    padding: 24px;
+}
+
 .student-table {
     width: 100%;
     border-collapse: collapse;
-    margin-top: 20px;
 }
 
 .student-table th, .student-table td {
     text-align: left;
-    padding: 12px 15px;
-    border-bottom: 1px solid #ddd;
+    padding: 16px;
+    border-bottom: 1px solid var(--border-color);
 }
 
 .student-table thead th {
-    background-color: #007bff;
-    color: white;
-    font-weight: 600;
+    color: var(--primary-color);
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    letter-spacing: 0.5px;
 }
 
-.student-table tbody tr:nth-of-type(even) {
-    background-color: #f9f9f9;
+.student-table tbody tr {
+    transition: background-color 0.2s ease;
+}
+
+.student-table tbody tr:last-child td {
+    border-bottom: none;
 }
 
 .student-table tbody tr:hover {
-    background-color: #f1f1f1;
+    background-color: var(--hover-bg-color);
 }
+
 
 .course-tag {
     display: inline-block;
-    padding: 4px 8px;
-    border-radius: 12px;
-    font-size: 0.8em;
-    font-weight: bold;
+    padding: 5px 12px;
+    border-radius: 15px;
+    font-size: 0.8rem;
+    font-weight: 600;
     color: white;
+    text-transform: uppercase;
 }
 
-.course-bsit {
-    background-color: #17a2b8; /* Teal for BSIT */
+.bsit {
+    background-color: var(--tag-bsit-bg);
 }
 
-.course-bscs {
-    background-color: #dc3545; /* Red for BSCS */
+.bscs {
+    background-color: var(--tag-bscs-bg);
+}
+
+
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+    
+    .header, .table-container {
+        padding: 16px;
+    }
+
+    #section-title {
+        font-size: 1.5rem;
+    }
+
+    
+    .student-table thead {
+        display: none;
+    }
+
+    .student-table tr {
+        display: block;
+        border: 1px solid var(--border-color);
+        border-radius: 8px;
+        margin-bottom: 16px;
+        background-color: rgba(0, 0, 0, 0.1);
+    }
+
+    .student-table td {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        text-align: right;
+        padding: 12px;
+        border-bottom: 1px solid var(--border-color);
+    }
+    
+    .student-table td:last-child {
+        border-bottom: none;
+    }
+
+    .student-table td::before {
+        content: attr(data-label);
+        font-weight: 600;
+        text-align: left;
+        color: var(--primary-color);
+        margin-right: 10px;
+    }
 }

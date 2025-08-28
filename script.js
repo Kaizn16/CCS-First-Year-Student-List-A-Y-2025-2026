@@ -22,9 +22,9 @@ fetch('students.json')
                 const row = document.createElement('tr');
                 const courseClass = student.course.toLowerCase() === 'bsit' ? 'bsit' : 'bscs';
                 row.innerHTML = `
-                    <td>${index + 1}</td>
-                    <td>${student.lastName}, ${student.firstName} ${student.middleName}</td>
-                    <td><span class="course-tag ${courseClass}">${student.course}</span></td>
+                    <td data-label="#">${index + 1}</td>
+                    <td data-label="Full Name">${student.lastName}, ${student.firstName} ${student.middleName || ''}</td>
+                    <td data-label="Course"><span class="course-tag ${courseClass}">${student.course}</span></td>
                 `;
                 listContainer.appendChild(row);
             });

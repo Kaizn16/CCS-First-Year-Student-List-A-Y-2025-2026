@@ -3,31 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
     <title>BSIT & BSCS 1 - Student Lists</title>
 </head>
 <body>
 
     <div class="container">
-        <div class="section-selector">
-            <button id="btn-secA" class="active">Section A</button>
-            <button id="btn-secB">Section B</button>
-            <button id="btn-secC">Section C</button>
-            <button id="btn-secD">Section D</button>
-            <button id="btn-secE">Section E</button>
+        <div class="header">
+            <h1 id="section-title">Student List: Section A</h1>
+            <div class="section-selector">
+                <button id="btn-secA" class="active">Section A</button>
+                <button id="btn-secB">Section B</button>
+                <button id="btn-secC">Section C</button>
+                <button id="btn-secD">Section D</button>
+                <button id="btn-secE">Section E</button>
+            </div>
         </div>
-        <h1 id="section-title">Student List: Section A</h1>
-        <table class="student-table">
-            <thead>
-                <tr>
-                    <th>#</th>
-                    <th>Full Name</th>
-                    <th>Course</th>
-                </tr>
-            </thead>
-            <tbody id="student-list-body">
+        <div class="table-container">
+            <table class="student-table">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Full Name</th>
+                        <th>Course</th>
+                    </tr>
+                </thead>
+                <tbody id="student-list-body">
                 </tbody>
-        </table>
+            </table>
+        </div>
     </div>
     
     <script src="script.js"></script>
