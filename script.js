@@ -15,7 +15,7 @@ fetch('students.json')
     .then(response => response.json())
     .then(data => { 
         const renderStudentList = (studentData, sectionName) => {
-            sectionTitle.textContent = `Student List: Section ${sectionName}`;
+            sectionTitle.textContent = `1st Year Student List: Section ${sectionName}`;
             listContainer.innerHTML = '';
 
             studentData.forEach((student, index) => {
