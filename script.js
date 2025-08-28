@@ -20,10 +20,10 @@ fetch('students.json')
 
             studentData.forEach((student, index) => {
                 const row = document.createElement('tr');
-                const courseClass = student.course.toLowerCase() === 'bsit' ? 'course-bsit' : 'course-bscs';
+                const courseClass = student.course.toLowerCase() === 'bsit' ? 'bsit' : 'bscs';
                 row.innerHTML = `
                     <td>${index + 1}</td>
-                    <td>${student.firstName} ${student.lastName}</td>
+                    <td>${student.lastName}, ${student.firstName} ${student.middleName}</td>
                     <td><span class="course-tag ${courseClass}">${student.course}</span></td>
                 `;
                 listContainer.appendChild(row);
