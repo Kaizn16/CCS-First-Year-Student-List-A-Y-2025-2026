@@ -292,8 +292,294 @@
 
   
   "B": [
-    { "lastName": "ABANTO", "firstName": "FRITZ JERALD", "course": "BSIT" }, { "lastName": "AGUIRRE", "firstName": "JOHN PAUL", "course": "BSIT" }, { "lastName": "ALEJAGA", "firstName": "JERIC", "course": "BSIT" }, { "lastName": "ALIPO-ON", "firstName": "JEO", "course": "BSIT" }, { "lastName": "ANDRADE", "firstName": "ARVIN", "course": "BSCS" }, { "lastName": "ARROZ", "firstName": "MARK ANTHONY", "course": "BSIT" }, { "lastName": "ASTURIAS", "firstName": "JOSHUA", "course": "BSIT" }, { "lastName": "AUSENTE", "firstName": "KYLE", "course": "BSIT" }, { "lastName": "BABANTE", "firstName": "JESUSA", "course": "BSIT" }, { "lastName": "BALAJADIA", "firstName": "CHRISTIAN", "course": "BSCS" }, { "lastName": "BERNADAS", "firstName": "RICO", "course": "BSIT" }, { "lastName": "CALIBARA", "firstName": "ELJAY", "course": "BSIT" }, { "lastName": "CARTAGENA", "firstName": "ANGELICA", "course": "BSIT" }, { "lastName": "CATALAN", "firstName": "JAY", "course": "BSIT" }, { "lastName": "DAVID", "firstName": "JEWEL", "course": "BSIT" }, { "lastName": "DIONSON", "firstName": "ANGELO", "course": "BSIT" }, { "lastName": "DIVINAGRACIA", "firstName": "JONATHAN", "course": "BSIT" }, { "lastName": "ESTEMBER", "firstName": "SHANE", "course": "BSIT" }, { "lastName": "GABALES", "firstName": "JAYVEE", "course": "BSIT" }, { "lastName": "GELVERO", "firstName": "RICO", "course": "BSIT" }, { "lastName": "LABRADOR", "firstName": "RONIEL", "course": "BSIT" }, { "lastName": "LAZARO", "firstName": "KATE", "course": "BSIT" }, { "lastName": "LEONIDA", "firstName": "STEPHEN", "course": "BSCS" }, { "lastName": "LIBO-ON", "firstName": "JUDE", "course": "BSIT" }, { "lastName": "LOPEZ", "firstName": "JOHN REX", "course": "BSIT" }, { "lastName": "MABOR", "firstName": "ANGELO", "course": "BSIT" }, { "lastName": "MOLINOS", "firstName": "CHRIS IVERSON", "course": "BSIT" }, { "lastName": "ONG", "firstName": "KRISTOFFER", "course": "BSIT" }, { "lastName": "PALMAR", "firstName": "REYMART", "course": "BSIT" }, { "lastName": "PASTRANA", "firstName": "JULIUS", "course": "BSCS" }, { "lastName": "PELAEZ", "firstName": "JOHN LLOYD", "course": "BSIT" }, { "lastName": "PEREZ", "firstName": "FRANCIS", "course": "BSIT" }, { "lastName": "PINEDA", "firstName": "MARK", "course": "BSIT" }, { "lastName": "POTESTAD", "firstName": "CARLO", "course": "BSIT" }, { "lastName": "ROCHA", "firstName": "JAYVEE", "course": "BSIT" }, { "lastName": "SALAZAR", "firstName": "ROLANDO JR.", "course": "BSIT" }, { "lastName": "SALVALOSA", "firstName": "MIKE", "course": "BSIT" }, { "lastName": "SAYSON", "firstName": "DANIEL", "course": "BSIT" }, { "lastName": "TERUEL", "firstName": "JOEMAR", "course": "BSCS" }, { "lastName": "TUBAL", "firstName": "ROLAND", "course": "BSIT" }, { "lastName": "VILLANUEVA", "firstName": "DAVE", "course": "BSIT" }
-  ],
+  {
+    "Last Name": "ABANILLA",
+    "First Name": "JEREMY",
+    "Middle Name": "MARTIZANO",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "ACEJO",
+    "First Name": "CYRIEL",
+    "Middle Name": "ALICOS",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "ANDRADA",
+    "First Name": "JOHN DENIEL",
+    "Middle Name": "DELA PEÑA",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "ANDUTAN",
+    "First Name": "WINJAMES",
+    "Middle Name": "CANONG",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "ARAGON",
+    "First Name": "JOHN MICHAEL",
+    "Middle Name": "GALLARDO",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "ARAGON",
+    "First Name": "PAUL JOHN",
+    "Middle Name": "LEGARDA",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "ARBOLEDA",
+    "First Name": "CARL",
+    "Middle Name": "ALCAZAREN",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "ARCEÑO",
+    "First Name": "MARRY DEVINE GRACE",
+    "Middle Name": "NA",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "BAÑARES",
+    "First Name": "NIÑA MARIE",
+    "Middle Name": ".",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "BAQUILAR",
+    "First Name": "FRITZ",
+    "Middle Name": "ARCA",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "BERTE",
+    "First Name": "AMBROSS MYEL",
+    "Middle Name": "TUPAZ",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "BEUP",
+    "First Name": "JOHN LLOYD",
+    "Middle Name": "SAYAT",
+    "Course": "BSCS",
+    
+  },
+  {
+    "Last Name": "BIRAS",
+    "First Name": "CHRIS MARK",
+    "Middle Name": "ALBA",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "BRILLO",
+    "First Name": "JAMES BENEDICT",
+    "Middle Name": "HONTEVEROS",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "CADIZ",
+    "First Name": "CHRISTIAN KYLE",
+    "Middle Name": ".",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "CASTILLO",
+    "First Name": "AIMAE",
+    "Middle Name": "CHU",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "DARIO",
+    "First Name": "KRISTER JOHN",
+    "Middle Name": "TUMLOS",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "DELA RAGA",
+    "First Name": "JOHN CHRIS",
+    "Middle Name": "GASTON",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "EBORDE",
+    "First Name": "MARC CHRISTIAN",
+    "Middle Name": "BARRERA",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "ESPIRITU",
+    "First Name": "ALEX CHIESTER",
+    "Middle Name": "ALMOSA",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "ESTIALBO",
+    "First Name": "BRENT JAIRUS",
+    "Middle Name": "GOZO",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "ESTONINA",
+    "First Name": "MARK VINCENT",
+    "Middle Name": "ALELIGAY",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "FABELLA",
+    "First Name": "RALPH KEVIN",
+    "Middle Name": "RAVELO",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "FABELLA",
+    "First Name": "KLYNTH JOSIAH",
+    "Middle Name": "VILLAR",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "FETALINO",
+    "First Name": "RANNIE",
+    "Middle Name": "MALFARTA",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "FETALVERO",
+    "First Name": "MEL ANDRO",
+    "Middle Name": "LOSARIA",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "FUNDAL",
+    "First Name": "SYRAH",
+    "Middle Name": "CELORICO",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "GALLARDO",
+    "First Name": "KENN EIDDERF",
+    "Middle Name": "CABALLERO",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "JALLOREN",
+    "First Name": "CHRISTIAN JAMES",
+    "Middle Name": "ORENDEZ",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "LEGASPI",
+    "First Name": "SEANMAR ACE",
+    "Middle Name": "CORTEL",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "LOGROÑO",
+    "First Name": "ASHLY",
+    "Middle Name": "DEFELIPE",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "LOJA",
+    "First Name": "ETHAN GAVRIEL",
+    "Middle Name": ".",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "MARQUEZ",
+    "First Name": "MARC FRANCIS",
+    "Middle Name": "MADICLUM",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "MENDOZA",
+    "First Name": "JOSHUA",
+    "Middle Name": "ALMODIENTE",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "MISPEROS",
+    "First Name": "JANELLA",
+    "Middle Name": "FUNTILAR",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "NATALIO",
+    "First Name": "JERICK",
+    "Middle Name": "DUMACON",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "OBERA",
+    "First Name": "ISAAC IRIAN CEDRIC",
+    "Middle Name": "MATIAS",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "RARANGOL",
+    "First Name": "JEROME",
+    "Middle Name": "CERILO",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "SECRETO",
+    "First Name": "JOERGE",
+    "Middle Name": "CELEBRADO",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "STA. JUANA",
+    "First Name": "LESLIE RIANE",
+    "Middle Name": "VILLASOR",
+    "Course": "BSIT",
+    
+  },
+  {
+    "Last Name": "VALBAREZ",
+    "First Name": "AZIL MYRNEL",
+    "Middle Name": "ARABIA",
+    "Course": "BSIT",
+    
+  }
+],
   "C": [
     { "lastName": "ALBARICO", "firstName": "JHONNA MAE", "course": "BSIT" }, { "lastName": "ALFARAS", "firstName": "JHON VINCENT", "course": "BSIT" }, { "lastName": "ALFARO", "firstName": "JOHN DANIEL", "course": "BSCS" }, { "lastName": "ALIPAO", "firstName": "JOSHUA", "course": "BSIT" }, { "lastName": "ALMOROS", "firstName": "CHRISTOPHER", "course": "BSIT" }, { "lastName": "ALONSAGAY", "firstName": "JULIUS", "course": "BSIT" }, { "lastName": "AMISTOSO", "firstName": "LESTER", "course": "BSIT" }, { "lastName": "ARANETA", "firstName": "ARJAY", "course": "BSCS" }, { "lastName": "ARIB", "firstName": "JHON LLOYD", "course": "BSIT" }, { "lastName": "AYSON", "firstName": "MARK", "course": "BSIT" }, { "lastName": "BACTUNG", "firstName": "JHUN", "course": "BSIT" }, { "lastName": "BANGELISAN", "firstName": "DARYL", "course": "BSIT" }, { "lastName": "BASA", "firstName": "JEROME", "course": "BSCS" }, { "lastName": "BELONIO", "firstName": "RONALD", "course": "BSIT" }, { "lastName": "BELTRAN", "firstName": "FRANCIS", "course": "BSIT" }, { "lastName": "BERNIL", "firstName": "ROGEN", "course": "BSIT" }, { "lastName": "BILLONES", "firstName": "JOSHUA", "course": "BSIT" }, { "lastName": "BLANCA", "firstName": "NICO", "course": "BSIT" }, { "lastName": "BRILLO", "firstName": "JOHN", "course": "BSIT" }, { "lastName": "BUCRO", "firstName": "MARK", "course": "BSIT" }, { "lastName": "CANONIZADO", "firstName": "JONAS", "course": "BSIT" }, { "lastName": "CASTROMAYOR", "firstName": "JOSHUA", "course": "BSCS" }, { "lastName": "CATEDRAL", "firstName": "JHON CARLO", "course": "BSIT" }, { "lastName": "CATILO", "firstName": "KENNETH", "course": "BSIT" }, { "lastName": "CEZAR", "firstName": "JOHN PAUL", "course": "BSIT" }, { "lastName": "DALIPE", "firstName": "REX", "course": "BSIT" }, { "lastName": "DE LA CRUZ", "firstName": "FRANCIS", "course": "BSIT" }, { "lastName": "DEASIS", "firstName": "JAYVEE", "course": "BSIT" }, { "lastName": "DOROMAL", "firstName": "REYMART", "course": "BSIT" }, { "lastName": "FABILLO", "firstName": "JOHN", "course": "BSCS" }, { "lastName": "FAJARDO", "firstName": "JOMAR", "course": "BSIT" }, { "lastName": "GALILA", "firstName": "JHON MICHAEL", "course": "BSIT" }, { "lastName": "GARDOSE", "firstName": "ARNEL", "course": "BSIT" }, { "lastName": "GEQUILLO", "firstName": "JOHN LLOYD", "course": "BSIT" }, { "lastName": "GICOLE", "firstName": "REX", "course": "BSIT" }, { "lastName": "GIMENO", "firstName": "JAMES", "course": "BSIT" }, { "lastName": "GOMEZ", "firstName": "KENNETH", "course": "BSIT" }, { "lastName": "GUILARAN", "firstName": "JOMAR", "course": "BSIT" }, { "lastName": "HOFILEÑA", "firstName": "FRANCIS", "course": "BSIT" }, { "lastName": "MAGBANUA", "firstName": "FRANCIS", "course": "BSIT" }
   ],
