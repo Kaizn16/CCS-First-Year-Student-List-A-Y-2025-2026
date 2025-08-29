@@ -55,10 +55,16 @@ body {
 
 .header-content {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: space-between;
     gap: 20px;
     margin-bottom: 24px;
+}
+
+.header-logos {
+    display: flex;
+    gap: 12px;
 }
 
 .header-logo {
