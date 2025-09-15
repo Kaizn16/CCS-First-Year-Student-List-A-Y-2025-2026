@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const listContainer = document.getElementById('student-list-body');
     const sectionTitle = document.getElementById('section-title');
     const searchInput = document.getElementById('search-input');
+    const countOverallStudents = document.getElementById('overall-students')
     const bsitTotalElement = document.getElementById('bsit-total');
     const bscsTotalElement = document.getElementById('bscs-total');
     
@@ -31,6 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         bsitTotalElement.textContent = `BSIT - ${bsitCount}`;
         bscsTotalElement.textContent = `BSCS - ${bscsCount}`;
+        countOverallStudents.textContent = `Students: ${bsitCount + bscsCount}`;
     };
 
     fetch('students.json')
@@ -80,7 +82,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             row.innerHTML = `
                 <td data-label="#">${index + 1}</td>
-                <td data-label="Full Name">${student.lastName}, ${student.firstName} ${student.middleName ? student.middleName[0] + '.' : ''}</td>
+                <td data-label="Full Name">${student.student_name}</td>
                 <td data-label="Course"><span class="course-tag ${courseClass}">${student.course}</span></td>
             `;
 
@@ -97,8 +99,9 @@ document.addEventListener('DOMContentLoaded', () => {
         const currentSectionData = allStudentData[currentSectionKey] || [];
         
         const sectionFilteredData = currentSectionData.filter(student => {
-            const fullName = `${student.firstName} ${student.middleName || ''} ${student.lastName}`.toLowerCase();
-            return fullName.includes(searchTerm);
+            const fullName = `${student.student_name}`.toLowerCase();
+            const course  = `${student.course}`.toLocaleLowerCase();
+            return fullName.includes(searchTerm) || course.includes(searchTerm);
         });
 
         renderStudentList(sectionFilteredData);
@@ -111,7 +114,7 @@ document.addEventListener('DOMContentLoaded', () => {
         applyFilterAndRender();
     };
 
-    // --- Event Listeners ---
+    
     searchInput.addEventListener('input', applyFilterAndRender);
 
     Object.keys(buttons).forEach(key => {

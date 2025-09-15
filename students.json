@@ -1,1140 +1,1164 @@
 {
   "A": [
-    {
-      "lastName": "AGUIHAP",
-      "firstName": "ALAN",
-      "middleName": "ALBORTE",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "AGUILLON",
-      "firstName": "AARON GEM",
-      "middleName": "JULIAN",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "ANDRADE",
-      "firstName": "ALPHA MAE",
-      "middleName": "FAMOSO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "ARMADA",
-      "firstName": "JOSHUA ALEXIS",
-      "middleName": "PINONGCOS",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "BALASA",
-      "firstName": "FRANK GRAN ULAND",
-      "middleName": "ESPAÑO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "BASA",
-      "firstName": "JERICK",
-      "middleName": "URETA",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "BAYHON",
-      "firstName": "KENNY",
-      "middleName": "ESTRELLA",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "BIGAY",
-      "firstName": "LORIE",
-      "middleName": "NAVARRO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "BILAN",
-      "firstName": "RAM CHRISTIAN",
-      "middleName": "VILLAMOR",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "BINIBINI",
-      "firstName": "ANGEL",
-      "middleName": "LAMIT",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "BOLANTE",
-      "firstName": "FRENTHEL FRHENS",
-      "middleName": "NAAMAN",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "CANONES",
-      "firstName": "KYLE",
-      "middleName": ".",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "CLERIGO",
-      "firstName": "JERWILL",
-      "middleName": "TABANAS",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "DANIEL",
-      "firstName": "LIAHN RUTH",
-      "middleName": "ULAM",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "DAYON",
-      "firstName": "KESTER LANCE",
-      "middleName": "BERNOLLA",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "DELA CRUZ",
-      "firstName": "ARIANNE GRACE",
-      "middleName": "NABALDE",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "DEMAYUGA",
-      "firstName": "RAJ",
-      "middleName": "DARIAGAN",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "DILLERA",
-      "firstName": "JIRO",
-      "middleName": "BABAO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "DORADO",
-      "firstName": "KENT JEARWYNE",
-      "middleName": "CABUNGCAL",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "DULLANO",
-      "firstName": "MICHAEL DANE",
-      "middleName": "BINONDO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "EUDELA",
-      "firstName": "MICHAEL ANGELO",
-      "middleName": "VILLANUEVA",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "FRESNIDO",
-      "firstName": "JETHER",
-      "middleName": "FAGTANAN",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "GANZON",
-      "firstName": "JOHN GABRIEL",
-      "middleName": "FACIOLAN",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "GUION",
-      "firstName": "R GEE",
-      "middleName": "VILLAS",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "JACINTO",
-      "firstName": "JERNIE FAITH",
-      "middleName": ".",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "JUMBAS",
-      "firstName": "VON YENCY",
-      "middleName": "VALEÑA",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "LIPURA",
-      "firstName": "JAMES",
-      "middleName": "LACORTE",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "MAGALSO",
-      "firstName": "CLARK JINWELLE",
-      "middleName": "CANTIGA",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "MALLEN",
-      "firstName": "JAYNEE VABES",
-      "middleName": "MARCO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "MENTINO",
-      "firstName": "LYREN JOY",
-      "middleName": "GARBO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "OGFEMININA",
-      "firstName": "RYU CLEIN",
-      "middleName": "FERNANDO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "PADILLA",
-      "firstName": "CARL JUDE",
-      "middleName": "MACUJA",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "PICA",
-      "firstName": "RAFAEL NORBERTO",
-      "middleName": "BORNALES",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "RIZON",
-      "firstName": "ANGELO PHILIPS",
-      "middleName": "DESALIT",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "SUMAGAYSAY",
-      "firstName": "RAIN NICOLI",
-      "middleName": "BARREDO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "TALABUCON",
-      "firstName": "SIMON KIRK",
-      "middleName": "VILLANUEVA",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "TANDA",
-      "firstName": "PRINCESS SHARA",
-      "middleName": "FACINAG",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "TANDOY",
-      "firstName": "JONATHAN",
-      "middleName": "BARREDO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "VISTA",
-      "firstName": "GERARDO III",
-      "middleName": "FABIAÑA",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "YRAC",
-      "firstName": "RAIZEL SHAINE",
-      "middleName": "SARRIA",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "YU",
-      "firstName": "DAVIN JAN",
-      "middleName": "TUAZON",
-      "course": "BSIT"
-    }
+  {
+    "no": 1,
+    "student_no": "25-CCS1-0108",
+    "student_name": "AGUIHAP, ALAN ALBORTE",
+    "course": "BSIT"
+  },
+  {
+    "no": 2,
+    "student_no": "25-CCS1-0062",
+    "student_name": "AGUILLON, AARON GEM JULIAN",
+    "course": "BSIT"
+  },
+  {
+    "no": 3,
+    "student_no": "25-CCS1-0027",
+    "student_name": "ANDRADE, ALPHA MAE FAMOSO",
+    "course": "BSIT"
+  },
+  {
+    "no": 4,
+    "student_no": "25-CCS1-0018",
+    "student_name": "ARMADA, JOSHUA ALEXIS PINONGCOS",
+    "course": "BSIT"
+  },
+  {
+    "no": 5,
+    "student_no": "25-CCS1-0073",
+    "student_name": "BALASA, FRANK GRAN ULAND ESPAÑO",
+    "course": "BSIT"
+  },
+  {
+    "no": 6,
+    "student_no": "25-CCS1-0067",
+    "student_name": "BASA, JERICK URETA",
+    "course": "BSIT"
+  },
+  {
+    "no": 7,
+    "student_no": "25-CCS1-0152",
+    "student_name": "BAYHON, KENNY ESTRELLA",
+    "course": "BSIT"
+  },
+  {
+    "no": 8,
+    "student_no": "25-CCS1-0086",
+    "student_name": "BIGAY, LORIE NAVARRO",
+    "course": "BSIT"
+  },
+  {
+    "no": 9,
+    "student_no": "25-CCS1-0003",
+    "student_name": "BILAN, RAM CHRISTIAN VILLAMOR",
+    "course": "BSIT"
+  },
+  {
+    "no": 10,
+    "student_no": "25-CCS1-0097",
+    "student_name": "BINIBINI, ANGEL LAMIT",
+    "course": "BSIT"
+  },
+  {
+    "no": 11,
+    "student_no": "25-CCS1-0030",
+    "student_name": "BOLANTE, FRENTHEL FRHENS NAAMAN",
+    "course": "BSIT"
+  },
+  {
+    "no": 12,
+    "student_no": "25-CCS1-0084",
+    "student_name": "CANONES, KYLE .",
+    "course": "BSIT"
+  },
+  {
+    "no": 13,
+    "student_no": "25-CCS1-0068",
+    "student_name": "CLERIGO, JERWILL TABANAS",
+    "course": "BSIT"
+  },
+  {
+    "no": 14,
+    "student_no": "25-CCS1-0066",
+    "student_name": "DANIEL, LIAHN RUTH ULAM",
+    "course": "BSIT"
+  },
+  {
+    "no": 15,
+    "student_no": "25-CCS1-0087",
+    "student_name": "DAYON, KESTER LANCE BERNOLLA",
+    "course": "BSIT"
+  },
+  {
+    "no": 16,
+    "student_no": "25-CCS1-0100",
+    "student_name": "DE PABLO, CARL BENEDICT VALDENEBRO",
+    "course": "BSIT"
+  },
+  {
+    "no": 17,
+    "student_no": "25-CCS1-0060",
+    "student_name": "DELA CRUZ, ARIANNE GRACE NABALDE",
+    "course": "BSIT"
+  },
+  {
+    "no": 18,
+    "student_no": "25-CCS1-0155",
+    "student_name": "DEMAYUGA, RAJ DARIAGAN",
+    "course": "BSIT"
+  },
+  {
+    "no": 19,
+    "student_no": "25-CCS1-0059",
+    "student_name": "DILLERA, JIRO BABAO",
+    "course": "BSIT"
+  },
+  {
+    "no": 20,
+    "student_no": "25-CCS1-0077",
+    "student_name": "DORADO, KENT JEARWYNE CABUNGCAL",
+    "course": "BSIT"
+  },
+  {
+    "no": 21,
+    "student_no": "25-CCS1-0012",
+    "student_name": "DULLANO, MICHAEL DANE BINONDO",
+    "course": "BSIT"
+  },
+  {
+    "no": 22,
+    "student_no": "25-CCS1-0094",
+    "student_name": "EUDELA, MICHAEL ANGELO VILLANUEVA",
+    "course": "BSIT"
+  },
+  {
+    "no": 23,
+    "student_no": "25-CCS1-0049",
+    "student_name": "FRESNIDO, JETHER FAGTANAN",
+    "course": "BSIT"
+  },
+  {
+    "no": 24,
+    "student_no": "25-CCS1-0054",
+    "student_name": "GANZON, JOHN GABRIEL FACIOLAN",
+    "course": "BSIT"
+  },
+  {
+    "no": 25,
+    "student_no": "25-CCS1-0008",
+    "student_name": "GUION, R GEE VILLAS",
+    "course": "BSIT"
+  },
+  {
+    "no": 26,
+    "student_no": "24-CCS2-0005",
+    "student_name": "HONRADO, JAN GABRIEL CONRAD ORILLOS",
+    "course": "BSIT"
+  },
+  {
+    "no": 27,
+    "student_no": "25-CCS1-0116",
+    "student_name": "JACINTO, JERNIE FAITH .",
+    "course": "BSIT"
+  },
+  {
+    "no": 28,
+    "student_no": "25-CCS1-0078",
+    "student_name": "JUMBAS, VON YENCY VALEÑA",
+    "course": "BSIT"
+  },
+  {
+    "no": 29,
+    "student_no": "25-CCS1-0138",
+    "student_name": "LIPURA, JAMES LACORTE",
+    "course": "BSIT"
+  },
+  {
+    "no": 30,
+    "student_no": "25-CCS1-0161",
+    "student_name": "MAGALSO, CLARK JINWELLE CANTIGA",
+    "course": "BSIT"
+  },
+  {
+    "no": 31,
+    "student_no": "25-CCS1-0159",
+    "student_name": "MALLEN, JAYNEE VABES MARCO",
+    "course": "BSIT"
+  },
+  {
+    "no": 32,
+    "student_no": "25-CCS1-0107",
+    "student_name": "MENTINO, LYREN JOY GARBO",
+    "course": "BSIT"
+  },
+  {
+    "no": 33,
+    "student_no": "25-CCS1-0122",
+    "student_name": "OGFEMININA, RYU CLEIN FERNANDO",
+    "course": "BSIT"
+  },
+  {
+    "no": 34,
+    "student_no": "25-CCS1-0110",
+    "student_name": "PADILLA, CARL JUDE MACUJA",
+    "course": "BSIT"
+  },
+  {
+    "no": 35,
+    "student_no": "25-CCS1-0144",
+    "student_name": "PICA, RAFAEL NORBERTO BORNALES",
+    "course": "BSCS"
+  },
+  {
+    "no": 36,
+    "student_no": "25-CCS1-0083",
+    "student_name": "RIZON, ANGELO PHILIPS DESALIT",
+    "course": "BSIT"
+  },
+  {
+    "no": 37,
+    "student_no": "25-CCS1-0141",
+    "student_name": "SUMAGAYSAY, RAIN NICOLI BARREDO",
+    "course": "BSIT"
+  },
+  {
+    "no": 38,
+    "student_no": "25-CCS1-0069",
+    "student_name": "TALABUCON, SIMON KIRK VILLANUEVA",
+    "course": "BSIT"
+  },
+  {
+    "no": 39,
+    "student_no": "25-CCS1-0098",
+    "student_name": "TANDA, PRINCESS SHARA FACINAG",
+    "course": "BSIT"
+  },
+  {
+    "no": 40,
+    "student_no": "25-CCS1-0171",
+    "student_name": "TANDOY, JONATHAN BARREDO",
+    "course": "BSIT"
+  },
+  {
+    "no": 41,
+    "student_no": "25-CCS1-0033",
+    "student_name": "VISTA, GERARDO III FABIAÑA",
+    "course": "BSCS"
+  },
+  {
+    "no": 42,
+    "student_no": "25-CCS1-0189",
+    "student_name": "YRAC, RAIZEL SHAINE SARRIA",
+    "course": "BSIT"
+  },
+  {
+    "no": 43,
+    "student_no": "25-CCS1-0127",
+    "student_name": "YU, DAVIN JAN TUAZON",
+    "course": "BSIT"
+  }
   ],
   "B": [
-    {
-      "lastName": "ABANILLA",
-      "firstName": "JEREMY",
-      "middleName": "MARTIZANO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "ACEJO",
-      "firstName": "CYRIEL",
-      "middleName": "ALICOS",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "ANDRADA",
-      "firstName": "JOHN DENIEL",
-      "middleName": "DELA PEÑA",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "ANDUTAN",
-      "firstName": "WINJAMES",
-      "middleName": "CANONG",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "ARAGON",
-      "firstName": "JOHN MICHAEL",
-      "middleName": "GALLARDO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "ARAGON",
-      "firstName": "PAUL JOHN",
-      "middleName": "LEGARDA",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "ARBOLEDA",
-      "firstName": "CARL",
-      "middleName": "ALCAZAREN",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "ARCEÑO",
-      "firstName": "MARRY DEVINE GRACE",
-      "middleName": "NA",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "BAÑARES",
-      "firstName": "NIÑA MARIE",
-      "middleName": ".",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "BAQUILAR",
-      "firstName": "FRITZ",
-      "middleName": "ARCA",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "BERTE",
-      "firstName": "AMBROSS MYEL",
-      "middleName": "TUPAZ",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "BEUP",
-      "firstName": "JOHN LLOYD",
-      "middleName": "SAYAT",
-      "course": "BSCS"
-      
-    },
-    {
-      "lastName": "BIRAS",
-      "firstName": "CHRIS MARK",
-      "middleName": "ALBA",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "BRILLO",
-      "firstName": "JAMES BENEDICT",
-      "middleName": "HONTEVEROS",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "CADIZ",
-      "firstName": "CHRISTIAN KYLE",
-      "middleName": ".",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "CASTILLO",
-      "firstName": "AIMAE",
-      "middleName": "CHU",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "DARIO",
-      "firstName": "KRISTER JOHN",
-      "middleName": "TUMLOS",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "DELA RAGA",
-      "firstName": "JOHN CHRIS",
-      "middleName": "GASTON",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "EBORDE",
-      "firstName": "MARC CHRISTIAN",
-      "middleName": "BARRERA",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "ESPIRITU",
-      "firstName": "ALEX CHIESTER",
-      "middleName": "ALMOSA",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "ESTIALBO",
-      "firstName": "BRENT JAIRUS",
-      "middleName": "GOZO",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "ESTONINA",
-      "firstName": "MARK VINCENT",
-      "middleName": "ALELIGAY",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "FABELLA",
-      "firstName": "RALPH KEVIN",
-      "middleName": "RAVELO",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "FABELLA",
-      "firstName": "KLYNTH JOSIAH",
-      "middleName": "VILLAR",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "FETALINO",
-      "firstName": "RANNIE",
-      "middleName": "MALFARTA",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "FETALVERO",
-      "firstName": "MEL ANDRO",
-      "middleName": "LOSARIA",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "FUNDAL",
-      "firstName": "SYRAH",
-      "middleName": "CELORICO",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "GALLARDO",
-      "firstName": "KENN EIDDERF",
-      "middleName": "CABALLERO",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "JALLOREN",
-      "firstName": "CHRISTIAN JAMES",
-      "middleName": "ORENDEZ",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "LEGASPI",
-      "firstName": "SEANMAR ACE",
-      "middleName": "CORTEL",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "LOGROÑO",
-      "firstName": "ASHLY",
-      "middleName": "DEFELIPE",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "LOJA",
-      "firstName": "ETHAN GAVRIEL",
-      "middleName": ".",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "MARQUEZ",
-      "firstName": "MARC FRANCIS",
-      "middleName": "MADICLUM",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "MENDOZA",
-      "firstName": "JOSHUA",
-      "middleName": "ALMODIENTE",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "MISPEROS",
-      "firstName": "JANELLA",
-      "middleName": "FUNTILAR",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "NATALIO",
-      "firstName": "JERICK",
-      "middleName": "DUMACON",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "OBERA",
-      "firstName": "ISAAC IRIAN CEDRIC",
-      "middleName": "MATIAS",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "RARANGOL",
-      "firstName": "JEROME",
-      "middleName": "CERILO",
-      "course": "BSIT"
-      
-    },
-    {
-      "lastName": "SECRETO",
-      "firstName": "JOERGE",
-      "middleName": "CELEBRADO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "STA. JUANA",
-      "firstName": "LESLIE RIANE",
-      "middleName": "VILLASOR",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "VALBAREZ",
-      "firstName": "AZIL MYRNEL",
-      "middleName": "ARABIA",
-      "course": "BSIT"    
-    }
+  {
+    "no": 1,
+    "student_no": "25-CCS1-0082",
+    "student_name": "ABANILLA, JEREMY MARTIZANO",
+    "course": "BSIT"
+  },
+  {
+    "no": 2,
+    "student_no": "25-CCS1-0118",
+    "student_name": "ACEJO, CYRIEL ALICOS",
+    "course": "BSIT"
+  },
+  {
+    "no": 3,
+    "student_no": "25-CCS1-0167",
+    "student_name": "ANDRADA, JOHN DENIEL DELA PEÑA",
+    "course": "BSIT"
+  },
+  {
+    "no": 4,
+    "student_no": "25-CCS1-0031",
+    "student_name": "ANDUTAN, WINJAMES CANONG",
+    "course": "BSIT"
+  },
+  {
+    "no": 5,
+    "student_no": "25-CCS1-0101",
+    "student_name": "ARAGON, PAUL JOHN LEGARDA",
+    "course": "BSIT"
+  },
+  {
+    "no": 6,
+    "student_no": "25-CCS1-0114",
+    "student_name": "ARAGON, JOHN MICHAEL GALLARDO",
+    "course": "BSIT"
+  },
+  {
+    "no": 7,
+    "student_no": "25-CCS1-0048",
+    "student_name": "ARBOLEDA, CARL ALCAZAREN",
+    "course": "BSIT"
+  },
+  {
+    "no": 8,
+    "student_no": "25-CCS1-0065",
+    "student_name": "ARCEÑO, MARRY DEVINE GRACE NA",
+    "course": "BSIT"
+  },
+  {
+    "no": 9,
+    "student_no": "25-CCS1-0035",
+    "student_name": "BAÑARES, NIÑA MARIE .",
+    "course": "BSIT"
+  },
+  {
+    "no": 10,
+    "student_no": "25-CCS1-0053",
+    "student_name": "BAQUILAR, FRITZ ARCA",
+    "course": "BSIT"
+  },
+  {
+    "no": 11,
+    "student_no": "25-CCS1-0190",
+    "student_name": "BARREDO, HANNAH CANDELARIO",
+    "course": "BSIT"
+  },
+  {
+    "no": 12,
+    "student_no": "25-CCS1-0039",
+    "student_name": "BERTE, AMBROSS MYEL TUPAZ",
+    "course": "BSIT"
+  },
+  {
+    "no": 13,
+    "student_no": "25-CCS1-0149",
+    "student_name": "BEUP, JOHN LLOYD SAYAT",
+    "course": "BSCS"
+  },
+  {
+    "no": 14,
+    "student_no": "25-CCS1-0021",
+    "student_name": "BIRAS, CHRIS MARK ALBA",
+    "course": "BSIT"
+  },
+  {
+    "no": 15,
+    "student_no": "25-CCS1-0127",
+    "student_name": "BRILLO, JAMES BENEDICT HONTEVEROS",
+    "course": "BSIT"
+  },
+  {
+    "no": 16,
+    "student_no": "25-CCS1-0139",
+    "student_name": "CADIZ, CHRISTIAN KYLE .",
+    "course": "BSIT"
+  },
+  {
+    "no": 17,
+    "student_no": "25-CCS1-0023",
+    "student_name": "CASTILLO, AIMAE CHU",
+    "course": "BSIT"
+  },
+  {
+    "no": 18,
+    "student_no": "25-CCS1-0156",
+    "student_name": "DARIO, KRISTER JOHN TUMLOS",
+    "course": "BSIT"
+  },
+  {
+    "no": 19,
+    "student_no": "25-CCS1-0004",
+    "student_name": "DELA RAGA, JOHN CHRIS GASTON",
+    "course": "BSIT"
+  },
+  {
+    "no": 20,
+    "student_no": "25-CCS1-0088",
+    "student_name": "EBORDE, MARC CHRISTIAN BARRERA",
+    "course": "BSIT"
+  },
+  {
+    "no": 21,
+    "student_no": "25-CCS1-0129",
+    "student_name": "ESPIRITU, ALEX CHIESTER ALMOSA",
+    "course": "BSIT"
+  },
+  {
+    "no": 22,
+    "student_no": "25-CCS1-0051",
+    "student_name": "ESTIALBO, BRENT JAIRUS GOZO",
+    "course": "BSIT"
+  },
+  {
+    "no": 23,
+    "student_no": "25-CCS1-0056",
+    "student_name": "ESTONINA, MARK VINCENT ALELIGAY",
+    "course": "BSIT"
+  },
+  {
+    "no": 24,
+    "student_no": "25-CCS1-0183",
+    "student_name": "FABELLA, RALPH KEVIN RAVELO",
+    "course": "BSIT"
+  },
+  {
+    "no": 25,
+    "student_no": "25-CCS1-0019",
+    "student_name": "FABELLA, KLYNTH JOSIAH VILLAR",
+    "course": "BSIT"
+  },
+  {
+    "no": 26,
+    "student_no": "25-CCS1-0025",
+    "student_name": "FETALINO, RANNIE MALFARTA",
+    "course": "BSIT"
+  },
+  {
+    "no": 27,
+    "student_no": "25-CCS1-0136",
+    "student_name": "FETALVERO, MEL ANDRO LOSARIA",
+    "course": "BSIT"
+  },
+  {
+    "no": 28,
+    "student_no": "25-CCS1-0150",
+    "student_name": "FUNDAL, SYRAH CELORICO",
+    "course": "BSIT"
+  },
+  {
+    "no": 29,
+    "student_no": "25-CCS1-0102",
+    "student_name": "GALLARDO, KENN EIDDERF CABALLERO",
+    "course": "BSIT"
+  },
+  {
+    "no": 30,
+    "student_no": "25-CCS1-0013",
+    "student_name": "JALLOREN, CHRISTIAN JAMES ORENDEZ",
+    "course": "BSIT"
+  },
+  {
+    "no": 31,
+    "student_no": "25-CCS1-0103",
+    "student_name": "LEGASPI, SEANMAR ACE CORTEL",
+    "course": "BSIT"
+  },
+  {
+    "no": 32,
+    "student_no": "25-CCS1-0074",
+    "student_name": "LOGROÑO, ASHLY DEFELIPE",
+    "course": "BSIT"
+  },
+  {
+    "no": 33,
+    "student_no": "25-CCS1-0014",
+    "student_name": "LOJA, ETHAN GAVRIEL .",
+    "course": "BSIT"
+  },
+  {
+    "no": 34,
+    "student_no": "25-CCS1-0075",
+    "student_name": "MARQUEZ, MARC FRANCIS MADICLUM",
+    "course": "BSIT"
+  },
+  {
+    "no": 35,
+    "student_no": "25-CCS1-0063",
+    "student_name": "MENDOZA, JOSHUA ALMODIENTE",
+    "course": "BSIT"
+  },
+  {
+    "no": 36,
+    "student_no": "25-CCS1-0045",
+    "student_name": "MISPEROS, JANELLA FUNTILAR",
+    "course": "BSIT"
+  },
+  {
+    "no": 37,
+    "student_no": "25-CCS1-0099",
+    "student_name": "NATALIO, JERICK DUMACON",
+    "course": "BSIT"
+  },
+  {
+    "no": 38,
+    "student_no": "25-CCS1-0115",
+    "student_name": "OBERA, ISAAC IRIAN CEDRIC MATIAS",
+    "course": "BSIT"
+  },
+  {
+    "no": 39,
+    "student_no": "25-CCS1-0145",
+    "student_name": "SECRETO, JOERGE CELEBRADO",
+    "course": "BSIT"
+  },
+  {
+    "no": 40,
+    "student_no": "25-CCS1-0093",
+    "student_name": "STA. JUANA, LESLIE RIANE VILLASOR",
+    "course": "BSIT"
+  },
+  {
+    "no": 41,
+    "student_no": "25-CCS1-0017",
+    "student_name": "VALBAREZ, AZIL MYRNEL ARABIA",
+    "course": "BSIT"
+  }
   ],
-  "C": [
-    {
-      "lastName": "ABENDAN",
-      "firstName": "JACKSON",
-      "middleName": "GERAPUSCO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "AGANA",
-      "firstName": "RYAN JAY",
-      "middleName": "GERAFUSCO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "AHUNIN",
-      "firstName": "DENVER JOHN",
-      "middleName": "DETOYATO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "ANDRADA",
-      "firstName": "KURT JAN PHILIP",
-      "middleName": "OGARES",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "APONESTO",
-      "firstName": "ELE RAIDEN",
-      "middleName": "CORTES",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "ARANDEZ",
-      "firstName": "MARK YVAN",
-      "middleName": "DEXIMO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "BAROSA",
-      "firstName": "JOLZ VINCENT",
-      "middleName": "BALOCO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "BELALO",
-      "firstName": "JOHN VIC",
-      "middleName": "BURATA",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "BESA",
-      "firstName": "CARL JEFERSON",
-      "middleName": "BARREDO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "BLASURCA",
-      "firstName": "JERICHO",
-      "middleName": "DAPAT",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "BOLVES",
-      "firstName": "JOHN AXL",
-      "middleName": "DACLES",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "BUENAVIDES",
-      "firstName": "JOSHUA",
-      "middleName": "CUSAY",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "BUIZON",
-      "firstName": "JULIOS",
-      "middleName": "FRANCISCO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "CAGAYANAN",
-      "firstName": "DARRYL JOHN",
-      "middleName": "BESANA",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "DALIVA",
-      "firstName": "RANIELYN",
-      "middleName": "BOLVES",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "DAVIS",
-      "firstName": "RHEUVIN KYLE",
-      "middleName": "BAES",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "DAYRIT",
-      "firstName": "RHON ASHLY",
-      "middleName": "PACIENTE",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "DECIEMBRE",
-      "firstName": "KEVIN",
-      "middleName": "CUSTODIO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "DELA CRUZ",
-      "firstName": "JOHN CARL",
-      "middleName": "BATAN",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "DELOS SANTOS",
-      "firstName": "MARK JHOEBERT",
-      "middleName": "PENETRANTE",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "DIZON",
-      "firstName": "KITZ ARMSTRONG",
-      "middleName": "FALCIS",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "ESPEJA",
-      "firstName": "RUTHCHER",
-      "middleName": "VILLASIS",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "GALECIA",
-      "firstName": "KIAN CLINT",
-      "middleName": "GONZALES",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "GITO",
-      "firstName": "MICHAEL ALLEN",
-      "middleName": "MALECUSIO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "MARCELINO",
-      "firstName": "VINCE",
-      "middleName": "MORALES",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "MARTINEZ",
-      "firstName": "JOHNAS",
-      "middleName": "DURON",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "MIRAFLORES",
-      "firstName": "JOSE ADRIAN",
-      "middleName": "CONDINO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "NACUA",
-      "firstName": "AARON",
-      "middleName": "BELO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "OBON",
-      "firstName": "PRINCE",
-      "middleName": "VILLAREAL",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "OBRIGUE",
-      "firstName": "CARL JAMES",
-      "middleName": "OLITHAO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "OLMEDO",
-      "firstName": "CHELSEA LEIGH",
-      "middleName": "OPINION",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "OSILA",
-      "firstName": "JUDE",
-      "middleName": "ALMARIO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "SUPETRAN",
-      "firstName": "ZION KIN",
-      "middleName": "MIRAFLOREST",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "TALEON",
-      "firstName": "ERICK JANZEN",
-      "middleName": "YEE",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "TOMENIO",
-      "firstName": "JAVIER",
-      "middleName": "SEBANES",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "TUPAZ",
-      "firstName": "JON RADEIGH",
-      "middleName": "MAGNAYE",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "VARNAL",
-      "firstName": "JOHN RENMIL",
-      "middleName": "V.",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "VERA",
-      "firstName": "MYCO GIAN",
-      "middleName": "CUSAY",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "VILE",
-      "firstName": "JOHN MICHAEL",
-      "middleName": "CAPUTERO",
-      "course": "BSIT"
-    }
+  "C":[
+  {
+    "no": 1,
+    "student_no": "25-CCS1-0079",
+    "student_name": "ABENDAN, JACKSON Gerapusco",
+    "course": "BSIT"
+  },
+  {
+    "no": 2,
+    "student_no": "25-CCS1-0011",
+    "student_name": "AGANA, RYAN JAY GERAFUSCO",
+    "course": "BSIT"
+  },
+  {
+    "no": 3,
+    "student_no": "25-CCS1-0061",
+    "student_name": "AHUNIN, DENVER JOHN DETOYATO",
+    "course": "BSIT"
+  },
+  {
+    "no": 4,
+    "student_no": "25-CCS1-0184",
+    "student_name": "ANDRADA, KURT JAN PHILIP OGARES",
+    "course": "BSIT"
+  },
+  {
+    "no": 5,
+    "student_no": "25-CCS1-0034",
+    "student_name": "APONESTO, ELE RAIDEN CORTES",
+    "course": "BSIT"
+  },
+  {
+    "no": 6,
+    "student_no": "25-CCS1-0072",
+    "student_name": "ARANDEZ, MARK YVAN DEXIMO",
+    "course": "BSIT"
+  },
+  {
+    "no": 7,
+    "student_no": "25-CCS1-0117",
+    "student_name": "ARBATIN, YANZY JAMES FUENTES",
+    "course": "BSIT"
+  },
+  {
+    "no": 8,
+    "student_no": "25-CCS1-0120",
+    "student_name": "BAROSA, JOLZ VINCENT BALOCO",
+    "course": "BSIT"
+  },
+  {
+    "no": 9,
+    "student_no": "25-CCS1-0002",
+    "student_name": "BELALO, JOHN VIC BURATA",
+    "course": "BSIT"
+  },
+  {
+    "no": 10,
+    "student_no": "25-CCS1-0128",
+    "student_name": "BESA, CARL JEFERSON BARREDO",
+    "course": "BSIT"
+  },
+  {
+    "no": 11,
+    "student_no": "24-CCS2-0009",
+    "student_name": "BLASURCA, JERICHO DAPAT",
+    "course": "BSIT"
+  },
+  {
+    "no": 12,
+    "student_no": "25-CCS1-0043",
+    "student_name": "BOLVES, JOHN AXL DACLES",
+    "course": "BSIT"
+  },
+  {
+    "no": 13,
+    "student_no": "25-CCS1-0046",
+    "student_name": "BUENAVIDES, JOSHUA CUSAY",
+    "course": "BSIT"
+  },
+  {
+    "no": 14,
+    "student_no": "25-CCS1-0005",
+    "student_name": "BUIZON, JULIOS FRANCISCO",
+    "course": "BSIT"
+  },
+  {
+    "no": 15,
+    "student_no": "25-CCS1-0154",
+    "student_name": "CAGAYANAN, DARRYL JOHN BESANA",
+    "course": "BSIT"
+  },
+  {
+    "no": 16,
+    "student_no": "25-CCS1-0159",
+    "student_name": "DALIVA, RANIELYN BOLVES",
+    "course": "BSCS"
+  },
+  {
+    "no": 17,
+    "student_no": "25-CCS1-0135",
+    "student_name": "DAVIS, RHEUVIN KYLE BAES",
+    "course": "BSIT"
+  },
+  {
+    "no": 18,
+    "student_no": "25-CCS1-0020",
+    "student_name": "DAYRIT, RHON ASHLY PACIENTE",
+    "course": "BSIT"
+  },
+  {
+    "no": 19,
+    "student_no": "25-CCS1-0134",
+    "student_name": "DECIEMBRE, KEVIN CUSTODIO",
+    "course": "BSIT"
+  },
+  {
+    "no": 20,
+    "student_no": "25-CCS1-0081",
+    "student_name": "DELA CRUZ, JOHN CARL BATAN",
+    "course": "BSIT"
+  },
+  {
+    "no": 21,
+    "student_no": "25-CCS1-0131",
+    "student_name": "DELOS SANTOS, MARK JHOEBERT PENETRANTE",
+    "course": "BSCS"
+  },
+  {
+    "no": 22,
+    "student_no": "25-CCS1-0124",
+    "student_name": "DIZON, KITZ ARMSTRONG FALCIS",
+    "course": "BSIT"
+  },
+  {
+    "no": 23,
+    "student_no": "25-CCS1-0010",
+    "student_name": "ESPEJA, RUTHCHER VILLASIS",
+    "course": "BSIT"
+  },
+  {
+    "no": 24,
+    "student_no": "25-CCS1-0147",
+    "student_name": "GALECIA, KIAN CLINT GONZALES",
+    "course": "BSIT"
+  },
+  {
+    "no": 25,
+    "student_no": "25-CCS1-0148",
+    "student_name": "GITO, MICHAEL ALLEN MALECUSIO",
+    "course": "BSIT"
+  },
+  {
+    "no": 26,
+    "student_no": "25-CCS1-0044",
+    "student_name": "HUESCA, ANGEL JAMES VILLANUEVA",
+    "course": "BSIT"
+  },
+  {
+    "no": 27,
+    "student_no": "25-CCS1-0158",
+    "student_name": "MARCELINO, VINCE MORALES",
+    "course": "BSIT"
+  },
+  {
+    "no": 28,
+    "student_no": "21-CO856",
+    "student_name": "MARTINEZ, CHRISTIAN JAY COBRADOR",
+    "course": "BSIT"
+  },
+  {
+    "no": 29,
+    "student_no": "25-CCS1-0113",
+    "student_name": "MARTINEZ, JOHNAS DURON",
+    "course": "BSIT"
+  },
+  {
+    "no": 30,
+    "student_no": "25-CCS1-0042",
+    "student_name": "MIRAFLORES, JOSE ADRIAN CONDINO",
+    "course": "BSIT"
+  },
+  {
+    "no": 31,
+    "student_no": "25-CCS1-0123",
+    "student_name": "NACUA, AARON BELO",
+    "course": "BSIT"
+  },
+  {
+    "no": 32,
+    "student_no": "25-CCS1-0026",
+    "student_name": "OBON, PRINCE VILLAREAL",
+    "course": "BSIT"
+  },
+  {
+    "no": 33,
+    "student_no": "25-CCS1-0168",
+    "student_name": "OBRIGUE, CARL JAMES OLITHAO",
+    "course": "BSIT"
+  },
+  {
+    "no": 34,
+    "student_no": "25-CCS1-0022",
+    "student_name": "OLMEDO, CHELSEA LEIGH OPINION",
+    "course": "BSIT"
+  },
+  {
+    "no": 35,
+    "student_no": "25-CCS1-0151",
+    "student_name": "OSILA, JUDE ALMARIO",
+    "course": "BSIT"
+  },
+  {
+    "no": 36,
+    "student_no": "25-CCS1-0029",
+    "student_name": "SUPETRAN, ZION KIN MIRAFLOREST",
+    "course": "BSIT"
+  },
+  {
+    "no": 37,
+    "student_no": "25-CCS1-0112",
+    "student_name": "TALEON, ERICK JANZEN YEE",
+    "course": "BSIT"
+  },
+  {
+    "no": 38,
+    "student_no": "25-CCS1-0165",
+    "student_name": "TOMENIO, JAVIER SEBANES",
+    "course": "BSIT"
+  },
+  {
+    "no": 39,
+    "student_no": "25-CCS1-0085",
+    "student_name": "TUPAZ, JON RADEIGH MAGNAYE",
+    "course": "BSIT"
+  },
+  {
+    "no": 40,
+    "student_no": "25-CCS1-0001",
+    "student_name": "VARNAL, JOHN RENMIL V.",
+    "course": "BSIT"
+  },
+  {
+    "no": 41,
+    "student_no": "25-CCS1-0047",
+    "student_name": "VERA, MYCO GIAN CUSAY",
+    "course": "BSIT"
+  },
+  {
+    "no": 42,
+    "student_no": "25-CCS1-0057",
+    "student_name": "VILE, JOHN MICHAEL CAPUTERO",
+    "course": "BSIT"
+  }
   ],
   "D": [
-    {
-      "lastName": "ACUYONG",
-      "firstName": "PAUL MICAH",
-      "middleName": "B",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "ADO",
-      "firstName": "GLORY JOY",
-      "middleName": "JEREMIAS",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "ALAMIL",
-      "firstName": "JOHN RAFAEL",
-      "middleName": "DELA CUESTA",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "ALOLOR",
-      "firstName": "CHRISTINE PEARL",
-      "middleName": "DORDAS",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "ALOVERA",
-      "firstName": "RANIER LOUIE",
-      "middleName": "BABILA",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "ALVAREZ",
-      "firstName": "JAMES ROY",
-      "middleName": "BUQUIRAN",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "AMATA",
-      "firstName": "YVON",
-      "middleName": "DAVAO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "ANDEO",
-      "firstName": "MA. ANGELA",
-      "middleName": "ESPERO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "ARELLANO",
-      "firstName": "MACARIO JOSEPH",
-      "middleName": "MANUNTAO",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "ARRIOLA",
-      "firstName": "JUN MANUEL",
-      "middleName": "VILLARANDA",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "BALBONA",
-      "firstName": "DARVIN MIGUEL",
-      "middleName": "MONTAÑO",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "BARREDO",
-      "firstName": "GEOVAN",
-      "middleName": "MAMAR",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "BERMEJO",
-      "firstName": "VON XZYR",
-      "middleName": "FLORINO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "BESA",
-      "firstName": "GIAN ANDREI",
-      "middleName": "DALIVA",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "BUBAN",
-      "firstName": "GABRIELLA",
-      "middleName": "TARGA",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "CAPAMPANGAN",
-      "firstName": "BASHER",
-      "middleName": "BARTOLO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "CASUDOBO",
-      "firstName": "JOHN MARK",
-      "middleName": "ALBALADEJO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "CELOSO",
-      "firstName": "MARY JOY",
-      "middleName": "ESCALA",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "CORRALES",
-      "firstName": "JOHN PATRICK",
-      "middleName": "OLEO",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "DALIDA",
-      "firstName": "JOSHUA",
-      "middleName": "LIMORONG",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "DE PEDRO",
-      "firstName": "JOHN LLOYD",
-      "middleName": "NAVA",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "DECOMA",
-      "firstName": "CARL JOHN",
-      "middleName": "RAMON",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "DENOSTA",
-      "firstName": "JEREMY",
-      "middleName": "TIBES",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "DENOSTA",
-      "firstName": "GEWEL",
-      "middleName": "DUMOLONG",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "ESTOCADA",
-      "firstName": "JARED DANIEL",
-      "middleName": "LAURILLA",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "FADERAN",
-      "firstName": "CHARLES DALE",
-      "middleName": "HEREDIA",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "FERNANDEZ",
-      "firstName": "KENT JEUSH",
-      "middleName": "DEVERA",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "GALLOSA",
-      "firstName": "GLEN RYAN",
-      "middleName": "ESPINA",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "GAYLAN",
-      "firstName": "IVAN",
-      "middleName": "BESANA",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "DEVERO",
-      "firstName": "JAY CARL",
-      "middleName": "EVIRA",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "GULA",
-      "firstName": "JONATHAN",
-      "middleName": "GARINO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "JORE",
-      "firstName": "CAYLA",
-      "middleName": ".",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "MAIGUE",
-      "firstName": "SHEAN AIRA",
-      "middleName": "SORTIGOSA",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "MELENDRES",
-      "firstName": "HELTER JUDE",
-      "middleName": "FRANCISCO",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "MELGAR",
-      "firstName": "JOSHUA",
-      "middleName": "BALASA",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "MENDOZA",
-      "firstName": "RAYMOND EUSOFF",
-      "middleName": "AVELINO",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "NATALIO",
-      "firstName": "ARVIENE KIM",
-      "middleName": "SANTIAGO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "OLIGO",
-      "firstName": "PRINCE HARRY",
-      "middleName": ".",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "PAEZ",
-      "firstName": "MARRC ALDRICH",
-      "middleName": "OBENARIO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "QUITALEG",
-      "firstName": "JERWIN",
-      "middleName": "CABAYLO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "ROXAS",
-      "firstName": "KURT ANDREI",
-      "middleName": "DENOSTA",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "RUDA",
-      "firstName": "IAN",
-      "middleName": "CARPIO",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "SOLIS",
-      "firstName": "ROCHELLE",
-      "middleName": "ORILLO",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "TEODOSIO",
-      "firstName": "RENZO LOUIS",
-      "middleName": "GAMIL",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "TINSAY",
-      "firstName": "RAM ANTHONY",
-      "middleName": "AQUINES",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "TUAZON",
-      "firstName": "JOASH ROWAN",
-      "middleName": "VILLAR",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "UDAD",
-      "firstName": "GYLLE NATHANIEL",
-      "middleName": "BATA-ANON",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "VARGAS",
-      "firstName": "LANCE EVANIEL",
-      "middleName": "MENDOZA",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "VERA",
-      "firstName": "JAMES DOMINIC",
-      "middleName": "DELA TORRE",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "VICTORIANO",
-      "firstName": "ANGEL ANN",
-      "middleName": "BALLERA",
-      "course": "BSIT"
-    }
+  {
+    "no": 1,
+    "student_no": "25-CCS1-0064",
+    "student_name": "ACUYONG, Paul Micah B",
+    "course": "BSCS"
+  },
+  {
+    "no": 2,
+    "student_no": "25-CCS1-0006",
+    "student_name": "ADO, Glory Joy Jeremias",
+    "course": "BSIT"
+  },
+  {
+    "no": 3,
+    "student_no": "25-CCS1-0040",
+    "student_name": "ALAMIL, John Rafael Dela Cuesta",
+    "course": "BSCS"
+  },
+  {
+    "no": 4,
+    "student_no": "25-CCS1-0177",
+    "student_name": "ALOLOR, Christine Pearl Dordas",
+    "course": "BSIT"
+  },
+  {
+    "no": 5,
+    "student_no": "24-CCS2-0002",
+    "student_name": "ALOVERA, Ranier Louie Babela",
+    "course": "BSIT"
+  },
+  {
+    "no": 6,
+    "student_no": "25-CCS1-0164",
+    "student_name": "ALVAREZ, James Roy Buquiran",
+    "course": "BSCS"
+  },
+  {
+    "no": 7,
+    "student_no": "25-CCS1-0178",
+    "student_name": "AMATA, Vhon Davao",
+    "course": "BSIT"
+  },
+  {
+    "no": 8,
+    "student_no": "25-CCS1-0106",
+    "student_name": "ANDEO, Ma. Angela Espero",
+    "course": "BSIT"
+  },
+  {
+    "no": 9,
+    "student_no": "25-CCS1-0146",
+    "student_name": "ARELLANO, Macario Joseph Manuntag",
+    "course": "BSCS"
+  },
+  {
+    "no": 10,
+    "student_no": "25-CCS1-0132",
+    "student_name": "ARRIOLA, Jun Manuel Villaranda",
+    "course": "BSIT"
+  },
+  {
+    "no": 11,
+    "student_no": "25-CCS1-0133",
+    "student_name": "BALBONA, Darvin Miguel Montaño",
+    "course": "BSIT"
+  },
+  {
+    "no": 12,
+    "student_no": "25-CCS1-0173",
+    "student_name": "BARREDO, Geovan Mamar",
+    "course": "BSIT"
+  },
+  {
+    "no": 13,
+    "student_no": "25-CCS1-0037",
+    "student_name": "BERMEJO, Von Xzyl Florino",
+    "course": "BSIT"
+  },
+  {
+    "no": 14,
+    "student_no": "25-CCS1-0095",
+    "student_name": "BESA, Gian Andrei Daliva",
+    "course": "BSIT"
+  },
+  {
+    "no": 15,
+    "student_no": "25-CCS1-0076",
+    "student_name": "BUBAN, Gabriella Targa",
+    "course": "BSIT"
+  },
+  {
+    "no": 16,
+    "student_no": "25-CCS1-0070",
+    "student_name": "CAPAMPANGAN, Basher Bartolo",
+    "course": "BSIT"
+  },
+  {
+    "no": 17,
+    "student_no": "25-CCS1-0180",
+    "student_name": "CASUGBO, Jhon Mark Albaladejo",
+    "course": "BSIT"
+  },
+  {
+    "no": 18,
+    "student_no": "25-CCS1-0169",
+    "student_name": "CELOSO, Mary Joy Escala",
+    "course": "BSCS"
+  },
+  {
+    "no": 19,
+    "student_no": "25-CCS1-0071",
+    "student_name": "CORRALES, John Patrick Oleo",
+    "course": "BSCS"
+  },
+  {
+    "no": 20,
+    "student_no": "25-CCS1-0179",
+    "student_name": "DALIDA, Joshua Limorong",
+    "course": "BSIT"
+  },
+  {
+    "no": 21,
+    "student_no": "25-CCS1-0032",
+    "student_name": "DE PEDRO, John Lloyd Nava",
+    "course": "BSCS"
+  },
+  {
+    "no": 22,
+    "student_no": "25-CCS1-0176",
+    "student_name": "DEGOMA, Carl John Ramon",
+    "course": "BSIT"
+  },
+  {
+    "no": 23,
+    "student_no": "25-CCS1-0163",
+    "student_name": "DENOSTA, Jeremy Tibes",
+    "course": "BSCS"
+  },
+  {
+    "no": 24,
+    "student_no": "25-CCS1-0028",
+    "student_name": "DENOSTA, Gewel Dumolongo",
+    "course": "BSCS"
+  },
+  {
+    "no": 25,
+    "student_no": "25-CCS1-0104",
+    "student_name": "ESTOCADA, Jared Daniel Laurilla",
+    "course": "BSIT"
+  },
+  {
+    "no": 26,
+    "student_no": "25-CCS1-0096",
+    "student_name": "FADERAN, Charles Dale Heredia",
+    "course": "BSIT"
+  },
+  {
+    "no": 27,
+    "student_no": "25-CCS1-0050",
+    "student_name": "FERNANDEZ, Kent Jeush Devera",
+    "course": "BSCS"
+  },
+  {
+    "no": 28,
+    "student_no": "25-CCS1-0162",
+    "student_name": "GALLOSA, Glen Ryan Espina",
+    "course": "BSCS"
+  },
+  {
+    "no": 29,
+    "student_no": "25-CCS1-0126",
+    "student_name": "GAYLAN, Ivan Besana",
+    "course": "BSCS"
+  },
+  {
+    "no": 30,
+    "student_no": "25-CCS1-0125",
+    "student_name": "GEVERO, Jay Carl Elvira",
+    "course": "BSIT"
+  },
+  {
+    "no": 31,
+    "student_no": "25-CCS1-0038",
+    "student_name": "GULA, Jonathan Garino",
+    "course": "BSIT"
+  },
+  {
+    "no": 32,
+    "student_no": "25-CCS1-0174",
+    "student_name": "JORE, Cayla",
+    "course": "BSIT"
+  },
+  {
+    "no": 33,
+    "student_no": "25-CCS1-0175",
+    "student_name": "MAIGUE, Shean Aira Sortigosa",
+    "course": "BSCS"
+  },
+  {
+    "no": 34,
+    "student_no": "25-CCS1-0143",
+    "student_name": "MELENDRES, Helter Jude Francisco",
+    "course": "BSIT"
+  },
+  {
+    "no": 35,
+    "student_no": "25-CCS1-0036",
+    "student_name": "MELGAR, Joshua Balasa",
+    "course": "BSIT"
+  },
+  {
+    "no": 36,
+    "student_no": "25-CCS1-0111",
+    "student_name": "MENDOZA, Raymond Eusoff Avelino",
+    "course": "BSCS"
+  },
+  {
+    "no": 37,
+    "student_no": "25-CCS1-0024",
+    "student_name": "NATALIO, Arviene Kim Santiago",
+    "course": "BSIT"
+  },
+  {
+    "no": 38,
+    "student_no": "25-CCS1-0015",
+    "student_name": "OLIGO, Prince Harry",
+    "course": "BSIT"
+  },
+  {
+    "no": 39,
+    "student_no": "25-CCS1-0058",
+    "student_name": "PAEZ, Marrc Aldrich Obenario",
+    "course": "BSIT"
+  },
+  {
+    "no": 40,
+    "student_no": "25-CCS1-0181",
+    "student_name": "QUITALEG, Jerwin Cabaylo",
+    "course": "BSIT"
+  },
+  {
+    "no": 41,
+    "student_no": "25-CCS1-0080",
+    "student_name": "ROXAS, Kurt Andrei Denosta",
+    "course": "BSCS"
+  },
+  {
+    "no": 42,
+    "student_no": "25-CCS1-0160",
+    "student_name": "RUDA, Ian Carpio",
+    "course": "BSCS"
+  },
+  {
+    "no": 43,
+    "student_no": "25-CCS1-0157",
+    "student_name": "SOLIS, Rochelle Orillo",
+    "course": "BSCS"
+  },
+  {
+    "no": 44,
+    "student_no": "25-CCS1-0191",
+    "student_name": "TEODOSIO, Renzo Louis Gamil",
+    "course": "BSCS"
+  },
+  {
+    "no": 45,
+    "student_no": "25-CCS1-0142",
+    "student_name": "TINSAY, Ram Anthony Aquines",
+    "course": "BSIT"
+  },
+  {
+    "no": 46,
+    "student_no": "25-CCS1-0055",
+    "student_name": "TUAZON, Joash Rowan Villar",
+    "course": "BSCS"
+  },
+  {
+    "no": 47,
+    "student_no": "25-CCS1-0009",
+    "student_name": "UDAD, Gylle Nathaniel Bata-anon",
+    "course": "BSIT"
+  },
+  {
+    "no": 48,
+    "student_no": "25-CCS1-0172",
+    "student_name": "VARGAS, Lance Evaniel Mendoza",
+    "course": "BSCS"
+  },
+  {
+    "no": 49,
+    "student_no": "25-CCS1-0090",
+    "student_name": "VERA, James Dominic Dela Torre",
+    "course": "BSIT"
+  },
+  {
+    "no": 50,
+    "student_no": "25-CCS1-0089",
+    "student_name": "VICTORIANO, Angel Ann Ballera",
+    "course": "BSIT"
+  }
   ],
   "E": [
-    {
-      "lastName": "ADO",
-      "firstName": "GLORY JOY",
-      "middleName": "JEREMIAS",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "ALAMIL",
-      "firstName": "JOHN RAFAEL",
-      "middleName": "DELA CUESTA",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "BALBOA",
-      "firstName": "XEDNYEL RUBEAX",
-      "middleName": "BRILLO",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "BUNCALAN",
-      "firstName": "JANSEN DAVID",
-      "middleName": "BLANCO",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "CALZADO",
-      "firstName": "JOHN CARL",
-      "middleName": "VELARDE",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "CELOSO",
-      "firstName": "MARY JOY",
-      "middleName": "ESCALA",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "DEMALATA",
-      "firstName": "JOSHUA",
-      "middleName": "NOQUE",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "DUBLON",
-      "firstName": "RHENZ ADRIAN",
-      "middleName": "BONDOY",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "ESCOBILLO",
-      "firstName": "STEPHEN",
-      "middleName": "GONZAGA",
-      "course": "BSIT"
-    },
-    {
-      "lastName": "RUDA",
-      "firstName": "IAN",
-      "middleName": "CARPIO",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "SOLIS",
-      "firstName": "ROCHELLE",
-      "middleName": "ORILLO",
-      "course": "BSCS"
-    },
-    {
-      "lastName": "ZAFIRES",
-      "firstName": "JEFF ALLEN",
-      "middleName": "ANISCO",
-      "course": "BSCS"
-    }
+  {
+    "no": 1,
+    "student_no": "25-CCS1-0006",
+    "student_name": "ADO, GLORY JOY JEREMIAS",
+    "course": "BSIT"
+  },
+  {
+    "no": 2,
+    "student_no": "25-CCS1-0040",
+    "student_name": "ALAMIL, JOHN RAFAEL DELA CUESTA",
+    "course": "BSCS"
+  },
+  {
+    "no": 3,
+    "student_no": "25-CCS1-0192",
+    "student_name": "ANISCO, TSHUN RICH CHIO ALISLA",
+    "course": "BSIT"
+  },
+  {
+    "no": 4,
+    "student_no": "25-CCS1-0130",
+    "student_name": "BALBOA, XEDNYEL RUBEAX BRILLO",
+    "course": "BSCS"
+  },
+  {
+    "no": 5,
+    "student_no": "25-CCS1-0119",
+    "student_name": "BUNCALAN, JANSEN DAVID BLANCO",
+    "course": "BSIT"
+  },
+  {
+    "no": 6,
+    "student_no": "25-CCS1-0187",
+    "student_name": "CALZADO, JOHN CARL VELARDE",
+    "course": "BSCS"
+  },
+  {
+    "no": 7,
+    "student_no": "25-CCS1-0169",
+    "student_name": "CELOSO, MARY JOY ESCALA",
+    "course": "BSCS"
+  },
+  {
+    "no": 8,
+    "student_no": "25-CCS1-0032",
+    "student_name": "DE PEDRO, JOHN LLOYD NAVA",
+    "course": "BSCS"
+  },
+  {
+    "no": 9,
+    "student_no": "25-CCS1-0007",
+    "student_name": "DEMALATA, JOSHUA NOQUE",
+    "course": "BSIT"
+  },
+  {
+    "no": 10,
+    "student_no": "25-CCS1-0140",
+    "student_name": "DUBLON, RHENZ ADRIAN BONDOY",
+    "course": "BSIT"
+  },
+  {
+    "no": 11,
+    "student_no": "25-CCS1-0185",
+    "student_name": "ESCOBILLO, STEPHEN GONZAGA",
+    "course": "BSIT"
+  },
+  {
+    "no": 12,
+    "student_no": "25-CCS1-0192",
+    "student_name": "MAGBANUA, MIKE JASPER DEGOJAS",
+    "course": "BSIT"
+  },
+  {
+    "no": 13,
+    "student_no": "25-CCS1-0160",
+    "student_name": "RUDA, IAN CARPIO",
+    "course": "BSCS"
+  },
+  {
+    "no": 14,
+    "student_no": "25-CCS1-0041",
+    "student_name": "SADSAD, LEE JEWEL TAD-Y",
+    "course": "BSIT"
+  },
+  {
+    "no": 15,
+    "student_no": "25-CCS1-0157",
+    "student_name": "SOLIS, ROCHELLE ORILLO",
+    "course": "BSCS"
+  },
+  {
+    "no": 16,
+    "student_no": "25-CCS1-0186",
+    "student_name": "ZAFIRES, JEFF ALLEN ANISCO",
+    "course": "BSCS"
+  }
   ]
 }
